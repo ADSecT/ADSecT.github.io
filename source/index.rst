@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Autonomous Driving Security (ADSecurity) Group!
+主页
 ===================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录
 
    01入门必读/index
    02开源数据集/index
