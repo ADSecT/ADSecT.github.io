@@ -22,7 +22,7 @@ copyright = '2023, Allenpandas'
 author = 'Allenpandas'
 
 # The full version, including alpha/beta/rc tags
-release = 'v1'
+release = 'latest'
 
 
 # -- General configuration ---------------------------------------------------

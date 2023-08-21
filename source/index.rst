@@ -10,9 +10,9 @@
    :maxdepth: 2
    :caption: 目录
 
-   01入门必读/index
-   02开源数据集/index
-   03关于/index
+   1.入门必读/index
+   2.开源数据集/index
+   3.关于/index
 
 Indices and tables
 ==================
