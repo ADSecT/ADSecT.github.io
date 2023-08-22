@@ -40,26 +40,19 @@
 
 ### 1.4.经典目标检测论文
 
-- **R-CNN (Region-based Convolutional Neural Networks)**
-  - 论文：[2014-CVPR] Rich feature hierarchies for accurate object detection and semantic segmentation. [[pdf](https://arxiv.org/abs/1311.2524)]
-- **Fast R-CNN**
-  - 论文：[2015-ICCV] Fast R-CNN. [[pdf](https://arxiv.org/abs/1504.08083)]
-- **Faster R-CNN**
-  - 论文：[2015-NeurIPS] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[pdf](https://arxiv.org/abs/1506.01497)]
-- **YOLO (You Only Look Once)**
-  - 论文：[2016-CVPR] You Only Look Once: Unified, Real-Time Object Detection. [[pdf](https://arxiv.org/abs/1506.02640)]
-- **SSD (Single Shot MultiBox Detector)**
-  - 论文：[2016-ECCV] SSD: Single Shot MultiBox Detector. [[pdf](https://arxiv.org/abs/1512.02325)]
-- **RetinaNet**
-  - 论文：[2017-CVPR] Focal Loss for Dense Object Detection. [[pdf](https://arxiv.org/abs/1708.02002)]
-- **EfficientDet**
-  - 论文：[2020-CVPR] EfficientDet: Scalable and Efficient Object Detection. [[pdf](https://arxiv.org/abs/1911.09070)]
-- **Cascade R-CNN**
-  - 论文：[2018-CVPR] Cascade R-CNN: Delving into High Quality Object Detection [[pdf](https://arxiv.org/abs/1712.00726)]
+- **R-CNN (Region-based Convolutional Neural Networks)：** [2014-CVPR] Rich feature hierarchies for accurate object detection and semantic segmentation. [[pdf](https://arxiv.org/abs/1311.2524)]
+- **Fast R-CNN：** [2015-ICCV] Fast R-CNN. [[pdf](https://arxiv.org/abs/1504.08083)]
+- **Faster R-CNN：** [2015-NeurIPS] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[pdf](https://arxiv.org/abs/1506.01497)]
+- **YOLO (You Only Look Once)：** [2016-CVPR] You Only Look Once: Unified, Real-Time Object Detection. [[pdf](https://arxiv.org/abs/1506.02640)]
+- **SSD (Single Shot MultiBox Detector)：** [2016-ECCV] SSD: Single Shot MultiBox Detector. [[pdf](https://arxiv.org/abs/1512.02325)]
+- **RetinaNet：** [2017-CVPR] Focal Loss for Dense Object Detection. [[pdf](https://arxiv.org/abs/1708.02002)]
+- **EfficientDet：** [2020-CVPR] EfficientDet: Scalable and Efficient Object Detection. [[pdf](https://arxiv.org/abs/1911.09070)]
+- **Cascade R-CNN：** [2018-CVPR] Cascade R-CNN: Delving into High Quality Object Detection [[pdf](https://arxiv.org/abs/1712.00726)]
 
 ### 1.5.阅读资料
 
 - [轻松掌握MMDetection算法，整体构建流程](https://mp.weixin.qq.com/s/66V9p9qj6vNhvztrJg5npg)
+- [单阶段、两阶段目标检测经典算法(RCNN系列、YOLO系列、SSD、RetinaNet等)大汇总](https://zhuanlan.zhihu.com/p/367069340)
 
 ### 1.6.参考文献
 
