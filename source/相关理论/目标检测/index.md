@@ -1,7 +1,5 @@
-# 相关理论
-## 1.目标检测
-
-### 1.1.目标检测介绍
+# 目标检测
+## 1.1.目标检测介绍
 
 目标检测是计算机视觉领域中的一项重要任务，旨在识别图像或视频中的特定对象的位置并将其与不同类别中的对象进行分类。与图像分类任务不同，目标检测不仅需要识别出图像中的对象，还需要确定这些对象在图像中的准确位置，同时通过矩形边界框（Bounding Box）来表示。在自动驾驶领域，目标检测技术具有重要的应用，帮助自动驾驶系统识别和理解道路上的环境，从而做出适当的驾驶决策。以下是目标检测在自动驾驶领域的一些主要应用：
 
@@ -14,7 +12,7 @@
 - **道路几何检测：** 目标检测可以用于检测道路的几何特征，如车道线和路缘石，以提供更准确的定位和导航信息。
 - **自动泊车：** 在自动泊车场景中，目标检测可用于检测停车位的位置和大小，以及其他可能的障碍物，以确保安全的泊车过程。
 
-### 1.2.目标检测算法分类
+## 1.2.目标检测算法分类
 
 目标检测算法可以有多种划分方法。按照stage个数划分，可以分为：one-stage（一阶段）算法和two-stage（两阶段）算法，按照是否需要预定义anchor划分，也可分为anchor-based和anchor-free。以下是按照stage个数进行划分的案例：
 
@@ -22,7 +20,7 @@
 - **two-stage代表算法：** R-CNN、SPPNet、Fast R-CNN、Faster R-CNN、Mask R-CNN、Cascade R-CNN、Sparse R-CNN等。
 - **理解：** two-stage算法会先①生成一个候选区域（region proposal），然后②利用CNN对每个候选区域进行分类；而one-stage算法则一步到位，直接输出每个候选区域及对应的分类结果。
 
-### 1.3.目标检测算法模型组成
+## 1.3.目标检测算法模型组成
 
 目标检测算法训练阶段的模型主要由以下几个部分组成，分别是：Backbone、Neck、Head、Enhance、BBox Assigner、BBox Sampler、BBox Encoder、 Loss组成。
 
@@ -38,7 +36,7 @@
 - **训练技巧：** 目标检测算法的训练技巧非常多，常说的调参很大一部分工作都是在设置这部分超参。这部分内容比较杂乱，很难做到完全统一，目前主流的tricks有：大batch训练、分布式训练和同步BN、Warm Up、余弦学习率、多尺度训练、模型EMA、知识蒸馏、Label Smoothing、对抗训练、随机权重平均、遗传算法自动超参数搜索等。
 - **图像数据增强：** 图像数据增强旨在通过对原始图像进行一系列变换和修改，从而生成更多、多样化的训练样本。常见的数据增强方法有：常规的图像数据增强（翻转、旋转、平移、缩放、裁剪、色彩变换、噪声添加等）、AutoAug、RandAug、MixUp/CutMix、Mosaic、Stitcher等。
 
-### 1.4.经典目标检测论文
+## 1.4.经典目标检测论文
 
 - **R-CNN (Region-based Convolutional Neural Networks)：** [2014-CVPR] Rich feature hierarchies for accurate object detection and semantic segmentation. [[pdf](https://arxiv.org/abs/1311.2524)]
 - **Fast R-CNN：** [2015-ICCV] Fast R-CNN. [[pdf](https://arxiv.org/abs/1504.08083)]
@@ -49,12 +47,12 @@
 - **EfficientDet：** [2020-CVPR] EfficientDet: Scalable and Efficient Object Detection. [[pdf](https://arxiv.org/abs/1911.09070)]
 - **Cascade R-CNN：** [2018-CVPR] Cascade R-CNN: Delving into High Quality Object Detection [[pdf](https://arxiv.org/abs/1712.00726)]
 
-### 1.5.阅读资料
+## 1.5.阅读资料
 
 - [轻松掌握MMDetection算法，整体构建流程](https://mp.weixin.qq.com/s/66V9p9qj6vNhvztrJg5npg)
 - [单阶段、两阶段目标检测经典算法(RCNN系列、YOLO系列、SSD、RetinaNet等)大汇总](https://zhuanlan.zhihu.com/p/367069340)
 
-### 1.6.参考文献
+## 1.6.参考文献
 
 - [2023-计算机工程与应用] 深度学习的目标检测算法改进综述
 - [2023-计算机工程与应用] 深度学习小目标检测算法综述
