@@ -29,16 +29,20 @@
 - **Backbone：** Backbone（主干网络）的主要作用是特征提取。常见的Backbone有：ResNet、ResNext、Res2Net、ResNeSt、DarkNet、HRNet、RegNet等。
 
 - **Neck：** Neck可以认为是Backbone和Head的连接层，主要负责对Backbone提取的的特征进行高效融合和增强，能够对输入的单尺度或者多尺度特征进行融合、增强输出等。常见的Neck有：FPN、BFP、RFP、PAFPN、NAS_FPN、HRFPN等。
-- **Head：** 
+- **Head：** 目标检测算法输出一般包括分类（比如：人、汽车等）和框坐标回归（标记"人"的矩形框对应的坐标）两个分支。
 - **Enhance：** Enhance是即插即用、能够对特征进行增强的模块。常用的Enhance模块有：SPP、ASPP、RFB、Dropout、Dropblock、DCN以及各种注意力模块SeNet、Non_local、CBA等。
-- **BBox Assigner：** 
-- **BBox Sampler：** 
-- **BBox Encoder：** 
-- **Loss：** Loss（损失）通常分为分类和回归loss，主要对Head网络输出的预测值和BBox encoder得到的targets进行梯度下降迭代训练。常见的分类Loss有：BCELoss、CELoss、FocalLoss、QualityFocalLoss、VarifocalLoss、GaussianFocalLoss、GHMC、OHEM等；常见的回归Loss有：L1/L2 Loss、SmoothL1Loss、BalancedL1Loss、DistributionFocalLoss、GHMR、IoU/BoundeIoU/GIoU/CIoU Loss等。
+- **BBox Assigner：** 待更新
+- **BBox Sampler：** 待更新
+- **BBox Encoder：** 待更新
+- **Loss：** Loss（损失）通常分为分类Loss和回归Loss，主要对Head网络输出的预测值和BBox encoder得到的targets进行梯度下降迭代训练。常见的分类Loss有：BCELoss、CELoss、FocalLoss、QualityFocalLoss、VarifocalLoss、GaussianFocalLoss、GHMC、OHEM等；常见的回归Loss有：L1/L2 Loss、SmoothL1Loss、BalancedL1Loss、DistributionFocalLoss、GHMR、IoU/BoundeIoU/GIoU/CIoU Loss等。
 - **训练技巧：** 目标检测算法的训练技巧非常多，常说的调参很大一部分工作都是在设置这部分超参。这部分内容比较杂乱，很难做到完全统一，目前主流的tricks有：大batch训练、分布式训练和同步BN、Warm Up、余弦学习率、多尺度训练、模型EMA、知识蒸馏、Label Smoothing、对抗训练、随机权重平均、遗传算法自动超参数搜索等。
 - **图像数据增强：** 图像数据增强旨在通过对原始图像进行一系列变换和修改，从而生成更多、多样化的训练样本。常见的数据增强方法有：常规的图像数据增强（翻转、旋转、平移、缩放、裁剪、色彩变换、噪声添加等）、AutoAug、RandAug、MixUp/CutMix、Mosaic、Stitcher等。
 
-### 1.4.推荐阅读
+### 1.4.阅读资料
+
+- [轻松掌握MMDetection算法，整体构建流程](https://mp.weixin.qq.com/s/66V9p9qj6vNhvztrJg5npg)
+
+### 1.5.参考文献
 
 - [2023-计算机工程与应用] 深度学习的目标检测算法改进综述
 - [2023-计算机工程与应用] 深度学习小目标检测算法综述
