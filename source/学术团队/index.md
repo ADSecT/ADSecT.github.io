@@ -7,3 +7,4 @@
 - **Z. Morley Mao(茅斫青)：** University of Michigan.
   - **Yulong Cao：** University of Michigan / NVIDIA Autonomous Vehicle Research group. [[link](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN)]
 - **Yiheng Feng：** Purdue University. [[link](https://scholar.google.com/citations?hl=zh-CN&user=Ykk41g4AAAAJ&view_op=list_works&sortby=pubdate)]
+- **Weisong Shi：** University of Delaware. [[link](https://scholar.google.com/citations?user=4rPcoCEAAAAJ&hl=en&oi=ao)] [[lab](https://www.thecarlab.org/team)]
