@@ -11,4 +11,5 @@
 
    会议列表/index
    期刊列表/index
-   投稿指南/index
+   征稿启事/index
+   投稿流程/index
