@@ -1,4 +1,4 @@
-# 学术团队
+# 学界聚焦
 
 - **Qi Alfred Chen(陈齐)：** University of California, Irvine. [[link](https://www.ics.uci.edu/~alfchen/)]
   - **Takami SATO：** Ph.D candidate. [[link](https://tkm2261.github.io/)]

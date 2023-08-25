@@ -11,7 +11,7 @@ ADSecurity Documentation
    :caption: 目录
 
    入门必读/index
-   学术团队/index
+   学界聚焦/index
    投稿指南/index
    科研积累/index
    相关理论/index
