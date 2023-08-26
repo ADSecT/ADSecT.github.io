@@ -1,6 +1,6 @@
 # AI模型安全与鲁棒性
 
-## 1.1.研究内容
+## 1.1.AI模型安全与鲁棒性介绍
 
 **研究内容：** AI模型安全威胁与鲁棒性研究是指对**机器学习（Machine Learning）**、**深度学习（Deep Learning）**、**强化学习（Reinforcement Learning）** 等模型在应用中可能遇到的安全威胁和鲁棒性问题进行研究，旨在提高模型的安全性，使其能够在现实世界中更可靠地应用。AI模型安全威胁与鲁棒性研究内容包括但不限于以下几个方向：
 
@@ -16,7 +16,7 @@
 
 **关键词：** Security; Software Engineering; Software Security; Security and Reliability of the Machine Learning; Security and Robustness of Machine Learning;
 
-
+## 1.2.期刊会议
 
 **学术会议：**
 
@@ -35,7 +35,7 @@
 
 
 
-## 学术团队
+## 1.3. 国内外学术团队
 
 - 孙猛（北大·数学科学学院）：https://www.math.pku.edu.cn/teachers/sunm/pub.html
 - 郑征（北航·可信智能软件研究室）：https://shi.buaa.edu.cn/zhengzheng/zh_CN/index.htm 
@@ -49,11 +49,11 @@
 
 
 
-## 相关文献
+## 1.4.参考文献
 
 - **[2020-TSE]** Jie M Zhang, Mark Harman, Lei Ma, Yang Liu. Machine learning testing: Survey, landscapes and horizons.(机器学习测试:调查，景观和视野) [[pdf](https://arxiv.org/pdf/1906.10742)]
 
-- **[2020-ICSE-Workshop] **Does Neuron Coverage Matter for Deep Reinforcement Learning?: A Preliminary Study.(神经元覆盖对深度强化学习有影响吗?:初步研究)
+- **[2020-ICSE-Workshop] ** Does Neuron Coverage Matter for Deep Reinforcement Learning?: A Preliminary Study.(神经元覆盖对深度强化学习有影响吗?:初步研究)
 
 - **[2018-ASE]** Youcheng Sun, Min Wu, Wenjie Ruan, Xiaowei Huang, Marta Kwiatkowska, Daniel Kroening. Concolic Testing for Deep Neural Networks(深度神经网络的混合曲线测试). [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238172)] [[code](https://github.com/TrustAI/DeepConcolic)]
 
