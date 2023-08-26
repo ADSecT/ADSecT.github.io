@@ -16,7 +16,8 @@ Welcome to Autonomous Driving Security Documentation(ADSecurity Documentation)!!
    学界聚焦/index
    投稿指南/index
    科研积累/index
-   相关理论/index
+   强基固本/index
+   阅读笔记/index
    开源数据集/index
    关于/index
 
