@@ -53,7 +53,7 @@
 
 - **[2020-TSE]** Jie M Zhang, Mark Harman, Lei Ma, Yang Liu. Machine learning testing: Survey, landscapes and horizons.(机器学习测试:调查，景观和视野) [[pdf](https://arxiv.org/pdf/1906.10742)]
 
-- **[2020-ICSE-Workshop] ** Does Neuron Coverage Matter for Deep Reinforcement Learning?: A Preliminary Study.(神经元覆盖对深度强化学习有影响吗?:初步研究)
+- **[2020-ICSE-Workshop]** Does Neuron Coverage Matter for Deep Reinforcement Learning?: A Preliminary Study.(神经元覆盖对深度强化学习有影响吗?:初步研究)
 
 - **[2018-ASE]** Youcheng Sun, Min Wu, Wenjie Ruan, Xiaowei Huang, Marta Kwiatkowska, Daniel Kroening. Concolic Testing for Deep Neural Networks(深度神经网络的混合曲线测试). [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238172)] [[code](https://github.com/TrustAI/DeepConcolic)]
 
