@@ -10,5 +10,4 @@
    :maxdepth: 2
 
    目标检测/index
-   数据增强/index
    AI模型安全与可靠性/index
