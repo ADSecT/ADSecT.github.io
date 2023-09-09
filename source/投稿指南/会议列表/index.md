@@ -1,12 +1,12 @@
 # 会议列表
 
-**CCF-A会议时间线：**
+### CCF-A会议时间线
 
 ![confDDLv1](./confDDLv3.png)
 
 
 
-**中国计算机学会CCF-A会议（AI+Sec.）：**
+### 中国计算机学会CCF-A会议（AI+Sec.）
 
 - **网络与信息安全：** [NDSS](http://dblp.uni-trier.de/db/conf/ndss/)、[CCS](http://dblp.uni-trier.de/db/conf/ccs/)、[Usenix Security](http://dblp.uni-trier.de/db/conf/uss/)、[S&P](http://dblp.uni-trier.de/db/conf/sp/)
 
@@ -18,7 +18,9 @@
 
 
 
-**网络安全顶级学术会议：**
+### 网络安全顶级学术会议
+
+`下列会议满足"学位评定委员会审核认定的各学科领域顶级国际会议论文"，还满足"发表学位评定委员会认定的信息与通信工程、控制科学与工程和网络空间安全学科领域的非CCF-A类顶级期刊、顶级会议论文，在申请博士学位时只在对应学科认定"，所以说是个不错的选择（一篇就够基本的毕业条件）。`
 
 - **[CCS]** ACM Conference on Computer and Communications Security（CCF-A）
 - **[S&P]** IEEE Symposium on Security and Privacy（CCF-A）
@@ -35,38 +37,4 @@
 - **[CSF]** Computer Security Foundations Symposium（非CCF）
 - **[RAID]** International Symposium on Research in Attacks, Intrusions and Defenses（非CCF）
 - **[AsiaCCS]** ACM ASIA Conference on Computer and Communications Security（非CCF）
-
-`上述会议满足"学位评定委员会审核认定的各学科领域顶级国际会议论文"，还满足"发表学位评定委员会认定的信息与通信工程、控制科学与工程和网络空间安全学科领域的非CCF-A类顶级期刊、顶级会议论文，在申请博士学位时只在对应学科认定"，所以说是个不错的选择（一篇就够基本的毕业条件）。`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
