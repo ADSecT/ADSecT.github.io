@@ -6,9 +6,6 @@
 
 - **[TIFS]** IEEE Transactions on Information Forensics and Security（An1/CCF-A）
 - **[TDSC]** IEEE Transactions on Dependable and Secure Computing（An2/CCF-A）
-  
-  ---
-  
 - **[TITS]** IEEE Transactions on Intelligent Transportation Systems（An1/CCF-B，交叉/新兴/综合）
 - **[TR]** IEEE Transactions on Robotics（An1/CCF-B，交叉/新兴/综合）
 - **[TRE]** IEEE Transactions on Reliability（An2/CCF-C，交叉/新兴/综合）
@@ -26,21 +23,12 @@
 `满足"学位评定委员会审核认定的各学科领域权威期刊论文&中科院JCR分区3区及以上"或者"学科认定目录外的中科院JCR期刊分区表2区及以上期刊论文（1篇权威类+1篇三类（中文核心）就够基本的毕业条件）。"`
 
 - **[COSE]** Computers & Security（An3/CCF-B）
-
 - Designs, Codes and Cryptography（An3/CCF-B）
-
 - **[IoTJ/IOT]** IEEE Internet of Things Journal（An1/CCF-C，计算机网络）
-
 - **[FGCS]** Future Generation Computer Systems（An2/CCF-C，计算机体系结构）
-
 - **[TCC]** IEEE Transactions on Cloud Computing（An2/CCF-C，并行与分布计算）
-
-  ---
-
 - **[JSA]** Journal of Systems Architecture（An2/CCF-B，体系结构）
-
 - **[ESE]** Empirical Software Engineering（An2 /CCF-B，软件工程）
-
 - **[JIS]** International Journal of Intelligent Systems（An2/CCF-C，人工智能）
 
 
