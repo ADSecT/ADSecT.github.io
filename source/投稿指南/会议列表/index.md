@@ -6,11 +6,15 @@
 
 
 
-**CCF-A会议清单：**
+**中国计算机学会CCF-A会议（AI+Sec.）：**
 
-- **人工智能方向：** IJCAI、AAAI、ICML（机器学习）、NeurIPS、CVPR（计算机视觉）、ICCV（计算机视觉）、ACL（自然语言处理）
-- **软件工程方向：** ICSE（软件工程）、ASE（自动化软件工程）、FSE（软件工程）、ISSTA（软件测试）
-- **网络安全方向：** NDSS、CCS、Usenix Security、S&P
+- **网络与信息安全：** [NDSS](http://dblp.uni-trier.de/db/conf/ndss/)、[CCS](http://dblp.uni-trier.de/db/conf/ccs/)、[Usenix Security](http://dblp.uni-trier.de/db/conf/uss/)、[S&P](http://dblp.uni-trier.de/db/conf/sp/)
+
+- **人工智能：** [IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/)、[AAAI](http://dblp.uni-trier.de/db/conf/aaai/)、[NeurIPS](http://dblp.uni-trier.de/db/conf/nips/)、[ICML](http://dblp.uni-trier.de/db/conf/icml/)（偏ML）、[CVPR](http://dblp.uni-trier.de/db/conf/cvpr/)（偏CV）、[ICCV](http://dblp.uni-trier.de/db/conf/iccv/)（偏CV）、[ACL](http://dblp.uni-trier.de/db/conf/acl/)（偏NLP）
+- **软件工程：** [ICSE](http://dblp.uni-trier.de/db/conf/icse/)、[FSE](http://dblp.uni-trier.de/db/conf/sigsoft/)、[ASE](http://dblp.uni-trier.de/db/conf/kbse/)（偏自动化软件工程）、[ISSTA](http://dblp.uni-trier.de/db/conf/issta/)（偏软件测试）
+- **交叉/综合/新兴方向：** [WWW](http://dblp.uni-trier.de/db/conf/www/)
+- **人机交互与普适计算：** [UbiComp](http://dblp.uni-trier.de/db/conf/huc/)
+- **计算机图形学：** [ACM MM](http://dblp.uni-trier.de/db/conf/mm/)
 
 
 
@@ -20,7 +24,7 @@
 - **[S&P]** IEEE Symposium on Security and Privacy（CCF-A）
 - **[USENIX Security]** USENIX Security Symposium（CCF-A）
 - **[NDSS]** Network and Distributed System Security Symposium（CCF-A）
-- **[UbiComp/IMWUT]** ACM International Conference on Ubiquitous Computing（CCF-A，人机交互与普适计算）
+- **[UbiComp]** ACM International Conference on Ubiquitous Computing（CCF-A，人机交互与普适计算）
 - **[ICSE]** International Conference on Software Engineering（CCF-A，软件工程）
 - **[ACSAC]** Annual Computer Security Applications Conference（CCF-B）
 - **[ESORICS]** European Symposium on Research in Computer Security（CCF-B）
