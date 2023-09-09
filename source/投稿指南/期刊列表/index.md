@@ -43,3 +43,12 @@
 - **[JCST]** Journal of Computer Science and Technology（An3）
 - **[TNSE]** IEEE Transactions on Network Science and Engineering（An3）
 
+
+
+#### 4.二类创新成果
+
+`满足"中科院JCR期刊分区表4区及以上期刊"。（2篇二类+2篇三类（中文核心）就够基本毕业条件）。`
+
+- Applied Science-Basel（An4）
+- IET Information Security（An4）
+- Cybersecurity（An4）
