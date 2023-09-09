@@ -7,7 +7,6 @@
 #### 2.中国计算机学会推荐CCF-A会议（AI+Sec.方向）
 
 - **网络与信息安全：** [NDSS](http://dblp.uni-trier.de/db/conf/ndss/)、[CCS](http://dblp.uni-trier.de/db/conf/ccs/)、[Usenix Security](http://dblp.uni-trier.de/db/conf/uss/)、[S&P](http://dblp.uni-trier.de/db/conf/sp/)
-
 - **人工智能：** [IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/)、[AAAI](http://dblp.uni-trier.de/db/conf/aaai/)、[NeurIPS](http://dblp.uni-trier.de/db/conf/nips/)、[ICML](http://dblp.uni-trier.de/db/conf/icml/)（偏ML）、[CVPR](http://dblp.uni-trier.de/db/conf/cvpr/)（偏CV）、[ICCV](http://dblp.uni-trier.de/db/conf/iccv/)（偏CV）、[ACL](http://dblp.uni-trier.de/db/conf/acl/)（偏NLP）
 - **软件工程：** [ICSE](http://dblp.uni-trier.de/db/conf/icse/)、[FSE](http://dblp.uni-trier.de/db/conf/sigsoft/)、[ASE](http://dblp.uni-trier.de/db/conf/kbse/)（偏自动化软件工程）、[ISSTA](http://dblp.uni-trier.de/db/conf/issta/)（偏软件测试）
 - **交叉/综合/新兴方向：** [WWW](http://dblp.uni-trier.de/db/conf/www/)
