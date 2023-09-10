@@ -1,10 +1,10 @@
 # 会议列表
 
-#### 1.CCF-A会议时间线（2023年）
+#### 1.CCF-A会议时间线（2023-2024）
 
 ![confDDLv1](./confDDLv3.png)
 
-#### 2.中国计算机学会推荐CCF-A会议（AI+Sec.方向）
+#### 2.CCF推荐的A类会议（AI+Sec.方向）
 
 - **网络与信息安全：** [NDSS](http://dblp.uni-trier.de/db/conf/ndss/)、[CCS](http://dblp.uni-trier.de/db/conf/ccs/)、[Usenix Security](http://dblp.uni-trier.de/db/conf/uss/)、[S&P](http://dblp.uni-trier.de/db/conf/sp/)
 - **人工智能：** [IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/)、[AAAI](http://dblp.uni-trier.de/db/conf/aaai/)、[NeurIPS](http://dblp.uni-trier.de/db/conf/nips/)、[ICML](http://dblp.uni-trier.de/db/conf/icml/)、[CVPR](http://dblp.uni-trier.de/db/conf/cvpr/)、[ICCV](http://dblp.uni-trier.de/db/conf/iccv/)、[ACL](http://dblp.uni-trier.de/db/conf/acl/)
