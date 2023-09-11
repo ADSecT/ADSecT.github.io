@@ -2,7 +2,9 @@
 
 #### 1.顶级类创新成果
 
-`满足"学位评定委员会审核认定的各学科领域顶级期刊论文&中科院JCR分区3区及以上"或者"IEEE/ACM Trans论文&中科院JCR分区2区及以上"（1篇就够基本的毕业条件）。`
+**简介：** 满足"学位评定委员会审核认定的各学科领域顶级期刊论文&中科院 JCR 分区 3 区及以上"或者"IEEE/ACM Trans论文&中科院 JCR 分区 2 区及以上"。
+
+**要求：** 顶级类成果1项。`含义：1篇下面所列的期刊，即可满足基本毕业条件。`
 
 - **[TIFS]** IEEE Transactions on Information Forensics and Security（An1/CCF-A）
 - **[TDSC]** IEEE Transactions on Dependable and Secure Computing（An2/CCF-A）
@@ -20,7 +22,9 @@
 
 #### 2.权威类创新成果
 
-`满足"学位评定委员会审核认定的各学科领域权威期刊论文&中科院JCR分区3区及以上"或者"学科认定目录外的中科院JCR期刊分区表2区及以上期刊论文（1篇权威类+1篇三类（中文核心）就够基本的毕业条件）。"`
+**简介：** 满足"学位评定委员会审核认定的各学科领域权威期刊论文&中科院 JCR 分区 3 区及以上"或者"学科认定目录外的中科院 JCR 期刊分区表 2 区及以上期刊论文"。
+
+**要求：** 权威类成果1项+三类成果1项。`含义：1篇下面所列的期刊+1篇二类创新成果，即可满足基本毕业条件。`
 
 - **[COSE]** Computers & Security（An3/CCF-B）
 - Designs, Codes and Cryptography（An3/CCF-B）
@@ -35,7 +39,9 @@
 
 #### 3.一类创新成果
 
-`满足"中科院JCR期刊分区表3区及以上期刊论文"（2篇一类+1篇三类（中文核心）就够基本毕业条件）。`
+**简介：** 满足"中科院 JCR 期刊分区表 3 区及以上期刊论文"。
+
+**要求：** 一类成果2项+二类成果1项。`含义：2篇下面所列的期刊+1篇二类创新成果，即可满足基本毕业条件。`
 
 - **[TGCN]** IEEE Transactions on Green Communications and Networking（An3）
 - **[TCDS]** IEEE Transactions on Cognitive and Developmental Systems（An3）
@@ -47,8 +53,14 @@
 
 #### 4.二类创新成果
 
-`满足"中科院JCR期刊分区表4区及以上期刊"。（2篇二类+2篇三类（中文核心）就够基本毕业条件）。`
+**简介：** 满足"中科院 JCR 期刊分区表 4 区及以上期刊论文"。
+
+**要求：** 二类成果4项。`含义：4篇下面所列的期刊，即可满足基本毕业条件。`
 
 - Applied Science-Basel（An4）
 - IET Information Security（An4）
 - Cybersecurity（An4）
+
+
+
+**注：** 本文档所列期刊级别中，并未标记"三类创新成果（中文核心类）"。
