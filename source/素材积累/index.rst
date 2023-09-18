@@ -11,7 +11,3 @@
 
    Abstract/index
    Introduction/index
-   Related-Work/index
-   Method/index
-   Experiments/index
-   Conclusion/index
