@@ -6,7 +6,6 @@
 
 把问题放在一个广泛的背景下，突出研究的目的。
 
-- Recent studies revealed that ……, 
 - DNN models <u>are vulnerable to different types of adversarial attacks</u>, which <u>pose significant risks to the security and safety of</u> the vehicles and passengers.（……容易受到各种各样的对抗性攻击，这对……构成了重大安全风险。）—— **[2022-ACM MM] Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving.**
 
 
