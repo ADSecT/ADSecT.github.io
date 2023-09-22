@@ -13,8 +13,25 @@ AI方向论文的章节结构：
 	4.1.3. Implementation（实验环境的一些设计，实验细节）
 ※4.2. Comparison with Baseline Methods（和Baseline的对比，验证优越性）
 4.3. Ablation Study/Studies（消融实验）
-※4.4. Cross Dataset Generalization（跨数据集评估）
+※4.4. Cross Datasets Generalization（跨数据集泛化性的评估）
 ```
+
+
+
+## 2.数据集（Datasets）
+
+
+
+## 3.模型（Model）
+
+非必须模块，主要作为载体出现，一般来说：
+
+- 如果提出一种新的模型，则不需要此模块；
+- 如果提出了一种插件式的工具，则可能需要介绍此模块。例如：提出数据增强方法，那需要介绍使用的什么模型+数据增强方法来验证的可行性。又例如：提出了一种攻击方法，要需要介绍在针对哪些模型做的攻击。
+
+
+
+
 
 
 
