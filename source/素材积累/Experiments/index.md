@@ -7,7 +7,7 @@ AI方向论文的章节结构：
 ```
 4 Experiments
 4.1. Experimental Settings/Setup（实验环境）
-	4.1.1. Datasets
+	4.1.1. Datasets/Dataset and Model
 	4.1.2. Evaluation Metrics/Metrics
 	※4.1.3. Methods for Comparison（介绍对比的方法）
 	4.1.3. Implementation（实验环境的一些设计，实验细节）
@@ -20,6 +20,10 @@ AI方向论文的章节结构：
 
 ## 2.数据集（Datasets）
 
+**常用词：** Datasets、Dataset and Model
+
+
+
 
 
 ## 3.模型（Model）
@@ -29,7 +33,7 @@ AI方向论文的章节结构：
 - 如果提出一种新的模型结构，则不需要此模块；
 - 如果提出了一种插件式的工具/模块，则可能需要介绍此部分内容。例如：提出数据增强方法，那需要介绍使用的什么模型+数据增强方法来验证的可行性。又例如：提出了一种攻击方法，要需要介绍在针对哪些模型做的攻击。
 
-
+**常用词：** Dataset and Model（一般与数据集一起出现）
 
 
 
