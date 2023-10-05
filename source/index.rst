@@ -13,14 +13,13 @@ Welcome to Autonomous Driving Security Documentation(ADSecurity Documentation)!!
    :caption: 目录
 
    1-GettingStarted/index
-   .. AcademicFocus/index
-   
-   2-SubmissionGuidelines/index
-   3-ExistingWorks/index
-   4-ResearchBasis/index
-   5-MaterialAccumulation/index
+   2-AcademicFocus/index
+   3-SubmissionGuidelines/index
+   4-ExistingWorks/index
+   5-ResearchBasis/index
    6-OpenSourceDatasets/index
-   7-About/index
+   7-MaterialAccumulation/index
+   8-About/index
 
 .. Indices and tables
 .. ==================
