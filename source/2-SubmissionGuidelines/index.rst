@@ -9,7 +9,7 @@
 .. toctree::
    :maxdepth: 2
 
-   1-Conferences/index
+   1-CallForPapers/index
    2-Journals/index
-   3-CallForPapers/index
+   3-Conferences/index
    4-SubmissionGuidelines/index
