@@ -9,7 +9,7 @@
 .. toctree::
    :maxdepth: 2
 
-   会议列表/index
-   期刊列表/index
-   征稿启事/index
-   投稿流程/index
+   1-Conferences/index
+   2-Journals/index
+   3-CallForPapers/index
+   4-SubmissionGuidelines/index
