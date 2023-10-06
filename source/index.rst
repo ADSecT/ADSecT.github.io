@@ -13,7 +13,7 @@ Welcome to Autonomous Driving Security Documentation(ADSecurity Documentation)!!
    :caption: 目录
 
    1-GettingStarted/index
-   2-AcademicFocus/index
+   2-Focus/index
    3-SubmissionGuidelines/index
    4-ExistingWorks/index
    5-ResearchBasis/index
