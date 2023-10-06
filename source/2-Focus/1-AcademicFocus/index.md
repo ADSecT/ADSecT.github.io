@@ -1,12 +1,12 @@
-# 产学聚焦
+# 学术追踪
 
-## 1.自动驾驶安全
+## 1.自动驾驶安全方向
 
 - 加州大学·尔湾分校
-  - [Qi Alfred Chen(陈齐)](https://www.ics.uci.edu/~alfchen/)、 [Takami SATO](http://me.ningfei.org/)、 [Ningfei Wang](http://me.ningfei.org/)、[Yunpeng Luo](https://scholar.google.com/citations?user=qfFd4igAAAAJ&hl=zh-CN)
-- 密西根大学
-  - Z. Morley Mao(茅斫zhuo青)、[Yulong Cao](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN)等
-- 普渡大学
+  - Qi Alfred Chen(陈齐) [[link](https://www.ics.uci.edu/~alfchen/)]、 Takami SATO [[link](http://me.ningfei.org/)]、Ningfei Wang [[link](http://me.ningfei.org/)]、Yunpeng Luo [[link](https://scholar.google.com/citations?user=qfFd4igAAAAJ&hl=zh-CN)]
+- 密西根大学·电子工程与计算机科学系
+  - Z. Morley Mao(茅斫zhuo青) [[link](https://scholar.google.com/citations?user=Ba_Ci9UAAAAJ&hl=zh-CN)]、[Yulong Cao](https://scholar.google.com/citations?user=uclqBzgAAAAJ&hl=zh-CN) 等
+- 普渡大学·莱尔斯土木工程学院
   - Yiheng Feng [[link](https://scholar.google.com/citations?hl=zh-CN&user=Ykk41g4AAAAJ&view_op=list_works&sortby=pubdate)]
 - 特拉华大学·Car Lab [[link](https://www.thecarlab.org/team)]
   - Weisong Shi(施巍松) [[link](https://scholar.google.com/citations?user=4rPcoCEAAAAJ&hl=en&oi=ao)]
@@ -87,15 +87,3 @@
   - Junfeng Yang [[link](http://www.cs.columbia.edu/~junfeng/)]、Suman Jana [[link](http://www.cs.columbia.edu/~suman/)]、Kexin Peng [[link](https://sites.google.com/site/kexinpeisite/)] 等
 - 阿尔伯塔大学
   - Lei Ma [[link](https://scholar.google.com/citations?user=xsfGc58AAAAJ)]
-
-
-
-
-
-## 4.相关比赛
-
-- 世界智能驾驶挑战赛（World Intelligent Driving Challenge, WIDC）
-  - 比赛时间：每年5月
-- 中国国际自动驾驶大赛（China International Autopilot Challenge, CIAC）
-- 中国智能车未来挑战赛（Intelligent Vehicle Future Challenge, IVFC）
-- 全国大学生智能汽车竞赛
