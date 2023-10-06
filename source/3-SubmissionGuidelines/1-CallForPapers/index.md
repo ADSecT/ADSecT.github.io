@@ -3,7 +3,7 @@
 ## 1.CFP列表
 
 - **13th IFIP International Conference on Intelligent Information Processing（IIP2024）**
-  - **信息来源：** http://www.intsci.ac.cn/iip2024/
+  - **信息来源：** [http://www.intsci.ac.cn/iip2024/](http://www.intsci.ac.cn/iip2024/)
   - **截稿日期：** 2023年12月4日
 
 - **Special Issue "Privacy-Preserving Technologies for Large-scale Artificial Intelligence"**
@@ -11,13 +11,13 @@
   - **截稿日期：** 2023年12月15日
 
 - **电子学报（英文）专刊：遗忘学习理论及应用**
-  - **信息来源：** https://mp.weixin.qq.com/s/nYfoz1g1r4nVkXT8StDrsw
+  - **信息来源：** [https://mp.weixin.qq.com/s/nYfoz1g1r4nVkXT8StDrsw](https://mp.weixin.qq.com/s/nYfoz1g1r4nVkXT8StDrsw)
   - **截稿日期：** 2023年12月31日 
 
 ## 2.信息来源
 
-- **IEEE征稿列表：** https://www.computer.org/publications/author-resources/calls-for-papers
-- **CCF会议截稿日期：** https://ccfddl.github.io/
+- **IEEE征稿列表：** [https://www.computer.org/publications/author-resources/calls-for-papers](https://www.computer.org/publications/author-resources/calls-for-papers)
+- **CCF会议截稿日期：** [https://ccfddl.github.io/](https://ccfddl.github.io/)
 
 ## 3.历史信息
 
