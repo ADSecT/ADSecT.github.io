@@ -70,20 +70,46 @@
   
   
 
-
-
 ## 3.模型安全与测试
 
 - 北京大学·数学科学学院
   - 孙猛 [[link](https://www.math.pku.edu.cn/teachers/sunm/pub.html)]
-  - **方向：** 蜕变测试
 - 北京航空航天大学·可信智能软件研究室
   - 郑征 [[link](https://shi.buaa.edu.cn/zhengzheng/zh_CN/index.htm)] 
-  - **方向：** 人工智能软件系统的可靠性、测试方法
 - 华东师范大学
   - 陈岑  [[link](https://sites.google.com/site/chencenpersonalwebsite/)] 
-  - **方向：** 机器学习隐私保护、攻击与防御
 - 哥伦比亚大学·软件系统实验室(Software Systems Laboratory, SSL) [[link](https://systems.cs.columbia.edu/)]
   - Junfeng Yang [[link](http://www.cs.columbia.edu/~junfeng/)]、Suman Jana [[link](http://www.cs.columbia.edu/~suman/)]、Kexin Peng [[link](https://sites.google.com/site/kexinpeisite/)] 等
 - 阿尔伯塔大学
   - Lei Ma [[link](https://scholar.google.com/citations?user=xsfGc58AAAAJ)]
+
+
+
+## 4.其他
+
+- 北京邮电大学·图数据挖掘与机器学习实验室
+
+  - 石川 [[link](http://www.shichuan.org/ShiChuan_ch.html)]等
+
+- 北京交通大学·应用数据挖掘与机器学习实验室 [[link](https://adam-bjtu.org/)]
+
+  - 桑基韬、黄晓雯等
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
