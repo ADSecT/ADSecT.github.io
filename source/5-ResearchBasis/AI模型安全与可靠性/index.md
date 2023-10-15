@@ -35,7 +35,7 @@
 
 
 
-## 1.3. 国内外学术团队
+## 1.3.国内外学术团队
 
 - 孙猛（北大·数学科学学院）：https://www.math.pku.edu.cn/teachers/sunm/pub.html
 - 郑征（北航·可信智能软件研究室）：https://shi.buaa.edu.cn/zhengzheng/zh_CN/index.htm 
