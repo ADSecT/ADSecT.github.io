@@ -6,11 +6,26 @@
 
 
 
+## 2.知识分享
+
+- [你在搞科研都有什么好的习惯？](https://mp.weixin.qq.com/s/MVnr8sV0i2qXjSGT2xmJ2w)
 
 
 
+## 3.科研工具
 
-## 3.经典论文
+- [MMdetection官方网站（中文版）](https://mmdetection.readthedocs.io/zh_CN/latest/overview.html)
+- [VPN工具](https://v1.fastlink-aff02.com/user)
+- [COCO数据集官网](https://cocodataset.org/#home)
+- [OpenCV中文官方文档](https://www.woshicver.com/)
+- [安全深度学习工具库](https://sdle2018.github.io/SDLE/V1.1/en/Repository.html)
+- [大白智能](https://www.jiangdabai.com/)： 提供了许多计算机视觉领域的数据集
+- [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/) ：学术论文撰写参考工具
+- [Stable Diffusion 本地部署教程](https://www.bilibili.com/read/cv18292916/)
+
+
+
+## 4.经典论文
 
 ### Survey
 
