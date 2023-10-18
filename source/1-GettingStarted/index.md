@@ -9,10 +9,11 @@
 ## 2.知识分享
 
 - [你在搞科研都有什么好的习惯？](https://mp.weixin.qq.com/s/MVnr8sV0i2qXjSGT2xmJ2w)
+- [博士生发表论文的最佳速度](https://blog.sina.com.cn/s/blog_4b2b16c90102zppf.html) 
 
 
 
-## 3.科研工具
+## 3.科研教程
 
 - [MMdetection官方网站（中文版）](https://mmdetection.readthedocs.io/zh_CN/latest/overview.html)
 - [VPN工具](https://v1.fastlink-aff02.com/user)
@@ -22,6 +23,8 @@
 - [大白智能](https://www.jiangdabai.com/)： 提供了许多计算机视觉领域的数据集
 - [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/) ：学术论文撰写参考工具
 - [Stable Diffusion 本地部署教程](https://www.bilibili.com/read/cv18292916/)
+- [latex 画图子图排布、编号](https://zhuanlan.zhihu.com/p/414859221)
+- [科研入门，在导师完全散养不管的状态下，怎么提升自己的科研能力？](https://www.zhihu.com/question/385466539/answer/2268892163)
 
 
 
