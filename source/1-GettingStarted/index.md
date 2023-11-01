@@ -8,6 +8,7 @@
 - [世界模型和DriveGPT这类大模型到底能给自动驾驶带来什么？（10.30）](https://mp.weixin.qq.com/s/jJkwrf_-1mjO4yGjbJXb3Q)
 - [摄像头、激光雷达和毫米波雷达哪一个才是智能驾驶的发展方向？（10.29）](https://mp.weixin.qq.com/s/4yDO3hgABxekXrg-0X5sAQ)
 - [顶刊TIV | 用于自动驾驶赛车的多模态传感器融合和目标跟踪](https://mp.weixin.qq.com/s/v4Mmghz-g5iKSQ4S4oSM_A)
+- [首个多视角自动驾驶场景视频生成世界模型 | DrivingDiffusion: BEV数据和仿真新思路（10.23）](https://mp.weixin.qq.com/s/OUunfvirlpUS3zvibj9YDw)
 
 
 
