@@ -15,3 +15,4 @@
    Methodology/index
    Experiments/index
    Conclusion/index
+   Acknowledgment/index
