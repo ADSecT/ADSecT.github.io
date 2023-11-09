@@ -58,7 +58,13 @@ AI方向论文的章节结构：
 
 
 
+## 5.实验图表（Table and Figure）
 
+**Q1：** 图表中的“简写”应该怎么说明？
+
+**A1：** 参考AAAI'20《Random Erasing Data Augmentation》
+
+![](./assets/WX20231109-093122.png)
 
 
 
