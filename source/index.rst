@@ -15,14 +15,12 @@ ADSecTeam Docs
    :maxdepth: 1
    :caption: 目录
 
-   1-GettingStarted/index
-   2-Focus/index
-   3-SubmissionGuidelines/index
-   4-ExistingWorks/index
-   5-ResearchBasis/index
-   6-OpenSourceDatasets/index
-   7-MaterialAccumulation/index
-   8-About/index
+   GettingStarted/index
+   Focus/index
+   SubmissionGuidelines/index
+   ResearchBasis/index
+   Datasets/index
+   MaterialAccumulation/index
 
 .. Indices and tables
 .. ==================
