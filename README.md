@@ -1,4 +1,4 @@
-# ADSecurity-Repo
+# ADSecT
 
 本仓库是基于Sphinx + Read the Docs + Github搭建的文档管理仓库，记录本人在Autonomous Driving Security领域研究的一些资料。
 
@@ -33,10 +33,3 @@ pip3 install sphinx_rtd_theme
 pip3 install recommonmark
 pip3 install sphinx_markdown_tables
 ```
-
-克隆本仓库
-
-```shell
-git clone xxx
-```
-
