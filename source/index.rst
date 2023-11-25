@@ -3,23 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ADSecurity Documentation
+ADSecTeam Documentation
 ===================================
-Welcome to Autonomous Driving Security Documentation(ADSecurity Documentation)!!!
+本仓库是基于 Sphinx + Read the Docs + Github + Aliyun 搭建的文档管理仓库，记录本人在自动驾驶安全（Autonomous Driving Security）领域的一些学习资料。
+
+本仓库由我所在的自动驾驶安全小组（Autonomous Driving Security Team, ADSecT）维护。
 
 
-.. .. toctree::
-..    :maxdepth: 1
-..    :caption: 目录
 
-..    1-GettingStarted/index
-..    2-Focus/index
-..    3-SubmissionGuidelines/index
-..    4-ExistingWorks/index
-..    5-ResearchBasis/index
-..    6-OpenSourceDatasets/index
-..    7-MaterialAccumulation/index
-..    8-About/index
+.. toctree::
+   :maxdepth: 1
+   :caption: 目录
+
+   1-GettingStarted/index
+   2-Focus/index
+   3-SubmissionGuidelines/index
+   4-ExistingWorks/index
+   5-ResearchBasis/index
+   6-OpenSourceDatasets/index
+   7-MaterialAccumulation/index
+   8-About/index
 
 .. Indices and tables
 .. ==================
