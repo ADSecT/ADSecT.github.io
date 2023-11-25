@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ADSecGroup'
+project = 'ADSecTeam'
 copyright = '2023, Allenpandas'
 author = 'Allenpandas'
 
