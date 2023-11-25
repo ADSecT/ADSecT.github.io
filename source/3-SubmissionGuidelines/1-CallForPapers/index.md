@@ -1,4 +1,4 @@
-# 征稿启事
+# 3.1.征稿启事(Call for papers)
 
 ## 1.CFP列表
 

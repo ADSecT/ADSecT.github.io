@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-投稿指南
+3.投稿指南
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    1-CallForPapers/index
    2-Journals/index
