@@ -7,7 +7,8 @@
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   
    Framework/index
    Abstract/index
    Introduction/index
