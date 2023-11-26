@@ -33,3 +33,10 @@ pip3 install sphinx_rtd_theme
 pip3 install recommonmark
 pip3 install sphinx_markdown_tables
 ```
+
+本地编译
+
+```shell
+sphinx-autobuild source build/html
+```
+
