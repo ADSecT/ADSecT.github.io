@@ -13,3 +13,4 @@
    SubmissionGuidelines/index
    2-Journals/index
    3-Conferences/index
+   SecurityConf/index
