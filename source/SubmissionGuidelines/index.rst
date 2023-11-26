@@ -11,7 +11,7 @@
 
    CallForPapers/index
    SubmissionGuidelines/index
-   2-Journals/index
-   Conferences/index
    CCFDDL/index
+   Journals/index
+   Conferences/index
    SecurityConf/index
