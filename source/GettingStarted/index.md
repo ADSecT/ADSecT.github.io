@@ -18,6 +18,7 @@
 - [博士生发表论文的最佳速度](https://blog.sina.com.cn/s/blog_4b2b16c90102zppf.html) 
 - [科研入门，在导师完全散养不管的状态下，怎么提升自己的科研能力？](https://www.zhihu.com/question/385466539/answer/2268892163)
 - [想从事自动驾驶方面的工作，应该如何入门？我的入门经验分享，最重要的一点是坚持！](https://mp.weixin.qq.com/s/_8fCZMvmpIB92pBF59xrgg)
+- [如何地道地用英文写作？](https://zhuanlan.zhihu.com/p/76560542)
 
 
 
