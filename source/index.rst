@@ -19,8 +19,8 @@ ADSecTeam Docs
    Focus/index
    SubmissionGuidelines/index
    ResearchBasis/index
+   Writing/index
    Datasets/index
-   MaterialAccumulation/index
 
 .. Indices and tables
 .. ==================
