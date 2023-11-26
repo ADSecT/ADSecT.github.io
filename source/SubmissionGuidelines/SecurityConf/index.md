@@ -1,4 +1,4 @@
-# 网络空间安全学科顶会列表
+# 网安顶会列表
 
 `下列会议满足"学位评定委员会审核认定的各学科领域顶级国际会议论文"，还满足"发表学位评定委员会认定的信息与通信工程、控制科学与工程和网络空间安全学科领域的非CCF-A类顶级期刊、顶级会议论文，在申请博士学位时只在对应学科认定"，所以说是个不错的选择（一篇就够基本的毕业条件）。`
 
@@ -24,4 +24,3 @@
 - **非CCF推荐会议：**
   - **[CSF]** Computer Security Foundations Symposium
   - **[RAID]** International Symposium on Research in Attacks, Intrusions and Defenses
-  
