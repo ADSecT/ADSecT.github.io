@@ -66,40 +66,64 @@
 
 ## 权威类期刊
 
-**简介：** 满足"学位评定委员会审核认定的各学科领域权威期刊论文&中科院 JCR 分区 3 区及以上"或者"学科认定目录外的中科院 JCR 期刊分区表 2 区及以上期刊论文"。
+满足"学位评定委员会审核认定的各学科领域权威期刊论文&中科院 JCR 分区 3 区及以上"或者"学科认定目录外的中科院 JCR 期刊分区表 2 区及以上期刊论文"。
 
 **要求：** 权威类成果1项+三类成果1项。`含义：1篇下面所列的期刊+1篇二类创新成果，即可满足基本毕业条件。`
 
-- **[COSE]** Computers & Security（An3/CCF-B）
-- **[IoTJ/IOT]** IEEE Internet of Things Journal（An1/CCF-C，计算机网络）
-- **[FGCS]** Future Generation Computer Systems（An2/CCF-C，计算机体系结构）
-- **[TCC]** IEEE Transactions on Cloud Computing（An2/CCF-C，并行与分布计算）
-- **[JSA]** Journal of Systems Architecture（An2/CCF-B，体系结构）
-- **[ESE]** Empirical Software Engineering（An2 /CCF-B，软件工程）
-- **[JIS]** International Journal of Intelligent Systems（An2/CCF-C，人工智能）
+1. **[COSE]** Computers & Security
+   - **中文名称：** 计算机与安全
+   - **期刊等级：** 中科院3区、CCF-B（网络与信息安全）
+2. **[IoTJ/IOT]** IEEE Internet of Things Journal
+   - **中文名称：** IEEE物联网期刊
+   - **期刊等级：** 中科院1区、CCF-C（计算机网络）
+3. **[FGCS]** Future Generation Computer Systems
+   - **中文名称：** 未来计算机系统
+   - **期刊等级：** 中科院2区、CCF-C（计算机体系结构）
+4. **[TCC]** IEEE Transactions on Cloud Computing
+   - **中文名称：** IEEE云计算汇刊
+   - **期刊等级：** 中科院2区、CCF-C（并行与分布计算）
+5. **[JSA]** Journal of Systems Architecture
+   - **中文名称：** 系统架构期刊
+   - **期刊等级：** 中科院2区、CCF-B（体系结构）
+6. **[ESE]** Empirical Software Engineering
+   - **中文名称：** 经验软件工程
+   - **期刊等级：** 中科院2区、CCF-B（软件工程）
+7. **[JIS]** International Journal of Intelligent Systems
+   - **中文名称：** 国际智能系统期刊
+   - **期刊等级：** 中科院2区、CCF-C（人工智能）
 
 ## Ⅰ类期刊
 
-**简介：** 满足"中科院 JCR 期刊分区表 3 区及以上期刊论文"。
+满足"中科院 JCR 期刊分区表 3 区及以上期刊论文"。
 
 **要求：** 一类成果2项+二类成果1项。`含义：2篇下面所列的期刊+1篇二类创新成果，即可满足基本毕业条件。`
 
-- **[TGCN]** IEEE Transactions on Green Communications and Networking（An3）
-- **[TCDS]** IEEE Transactions on Cognitive and Developmental Systems（An3）
-- **[JISA]** Journal of Information Security and Applications（An3）
-- **[JCST]** Journal of Computer Science and Technology（An3）
-- **[TNSE]** IEEE Transactions on Network Science and Engineering（An3）
+1. **[TGCN]** IEEE Transactions on Green Communications and Networking
+   - **中文名称：** IEEE绿色通信与网络汇刊
+   - **期刊等级：** 中科院3区
+2. **[TCDS]** IEEE Transactions on Cognitive and Developmental Systems
+   - **中文名称：** IEEE认知与发展系统汇刊
+   - **期刊等级：** 中科院3区
+3. **[JISA]** Journal of Information Security and Applications
+   - **中文名称：** 信息安全与应用期刊
+   - **期刊等级：** 中科院3区
+4. **[JCST]** Journal of Computer Science and Technology
+   - **中文名称：** 计算机科学与技术期刊
+   - **期刊等级：** 中科院3区
+5. **[TNSE]** IEEE Transactions on Network Science and Engineering
+   - **中文名称：** IEEE网络科学与工程汇刊
+   - **期刊等级：** 中科院3区
 
 ## Ⅱ类期刊
 
-**简介：** 满足"中科院 JCR 期刊分区表 4 区及以上期刊论文"。
-
 **要求：** 二类成果4项。`含义：4篇下面所列的期刊，即可满足基本毕业条件。`
 
-- Applied Science-Basel（An4）
-- IET Information Security（An4）
-- Cybersecurity（An4）
-
-
-
-**注：** 本文档所列期刊级别中，并未标记"三类创新成果（中文核心类）"。
+1. Applied Science-Basel
+   - **中文名称：** 应用科学
+   - **期刊等级：** 中科院4区
+2. IET Information Security
+   - **中文名称：** IET信息安全
+   - **期刊等级：** 中科院4区
+3. Cybersecurity
+   - **中文名称：** 网络安全
+   - **期刊等级：** 中科院4区
