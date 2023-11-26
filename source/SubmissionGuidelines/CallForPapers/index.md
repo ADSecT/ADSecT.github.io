@@ -28,6 +28,11 @@
   - **录用日期：** 2024年03月01日
   - **会议级别：** CCF-C会议（人工智能）
   - **信息来源：** Prof. Gang Li, Deakin University
+- **The International Joint Conference on Neural Networks (IJCNN 2024)**
+  - **投稿链接：** [https://2024.ieeewcci.org/](https://2024.ieeewcci.org/)
+  - **截稿日期：** 2024年01月15日
+  - **录用日期：** 2024年03月15日
+  - **会议级别：** CCF-C会议（人工智能）
 - **Special Section on "Physical Safety and Security for Outdoor Electronic Devices" (IEEE Transactions on Consumer Electronics)**
   - **截稿日期：** 2023年01月31日
   - **期刊级别：** SCI中科院2区
