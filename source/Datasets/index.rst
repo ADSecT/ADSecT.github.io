@@ -10,4 +10,4 @@
    :maxdepth: 2
 
    1-PedestrianDetection/index
-   2-LaneDetection/index
+   .. 2-LaneDetection/index
