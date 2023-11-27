@@ -34,8 +34,9 @@
 - [Stable Diffusion 本地部署教程](https://www.bilibili.com/read/cv18292916/)
 - [latex 画图子图排布、编号](https://zhuanlan.zhihu.com/p/414859221)
 - [仿真实战 | Docker版Carla的安装与使用](https://mp.weixin.qq.com/s/ygYaVGlgEiOu_s4LfmZnow)
+- [LaTeX参考文献bib格式常用参数详解](https://blog.csdn.net/m0_38068876/article/details/134653581)
 
-
+- [Sourcetree安装教程及使用](https://zhuanlan.zhihu.com/p/629169117)
 
 ## 4.经典论文
 
