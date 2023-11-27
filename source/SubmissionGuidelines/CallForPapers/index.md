@@ -65,3 +65,12 @@
     - 智能交通
     - 智慧城市
     - 自动驾驶汽车
+
+---
+
+信息来源：
+
+- **实验室网站记录的CallForPapers：** https://docs.qq.com/sheet/DT3NnaE5vUnZ5Rkx6?tab=BB08J2
+- **CCF DDL：** https://ccfddl.top/
+- **Call4Papers：** http://123.57.137.208/C4PREST/ccf/ccf-3.jsp
+- **IEEE CFP：** https://www.computer.org/publications/author-resources/calls-for-papers
