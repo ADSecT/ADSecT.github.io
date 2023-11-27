@@ -10,7 +10,8 @@
 | :----------------------------------------------------------- | :------------: | :------: | ------------------------------------------------------------ |
 | [IJCAI-2024](https://ijcai24.org/)                           |    人工智能    |  CCF-A   | 2024.01.18                                                   |
 | [ICML-2024](https://icml.cc/Conferences/2024)                |    人工智能    |  CCF-A   | 2024.02.02                                                   |
-| [Usenix Security-2024](https://www.usenix.org/conference/usenixsecurity24) | 网络与信息安全 |  CCF-A   | <del>2023.06.07（2024-1/3</del><br /><del>2023.10.18（2024-2/3）</del><br />2024.02.09（2024-3/3） |
+| [Usenix Security-2024](https://www.usenix.org/conference/usenixsecurity24) | 网络与信息安全 |  CCF-A   | <del>2023.06.07（2024-1/3</del>）<br /><del>2023.10.18（2024-2/3）</del><br />2024.02.09（2024-3/3） |
+| [ECCV](https://eccv2024.ecva.net/)                           |    人工智能    |  CCF-B   | 2024.03.07                                                   |
 | [ACM MM-2024](https://2024.acmmm.org/)                       |  计算机图形学  |  CCF-A   | 2024.04.13                                                   |
 
 ### 2023 CCF-DDL
