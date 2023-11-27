@@ -70,7 +70,7 @@
 
 信息来源：
 
-- **实验室网站记录的CallForPapers：** [https://docs.qq.com/sheet/DT3NnaE5vUnZ5Rkx6?tab=BB08J2](https://docs.qq.com/sheet/DT3NnaE5vUnZ5Rkx6?tab=BB08J2)
+- **实验室网站记录的CallForPapers：** [https://docs.qq.com/sheet/DT3NnaE5vUnZ5Rkx6](https://docs.qq.com/sheet/DT3NnaE5vUnZ5Rkx6)
 - **CCF DDL：** [https://ccfddl.top/](https://ccfddl.top/)
 - **Call4Papers：** [http://123.57.137.208/C4PREST/ccf/ccf-3.jsp](http://123.57.137.208/C4PREST/ccf/ccf-3.jsp)
 - **IEEE CFP：** [https://www.computer.org/publications/author-resources/calls-for-papers](https://www.computer.org/publications/author-resources/calls-for-papers)
