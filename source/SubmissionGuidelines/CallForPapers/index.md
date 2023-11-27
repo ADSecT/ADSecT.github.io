@@ -49,16 +49,16 @@
 ---
 
 - <del>**Chinese Conference on Pattern Recognition and Computer Vision（中国模式识别与计算机视觉大会）**</del>
-  - **投稿链接：** https://prcv2023.xmu.edu.cn/lwtg.htm
+  - **投稿链接：** [https://prcv2023.xmu.edu.cn/lwtg.htm](https://prcv2023.xmu.edu.cn/lwtg.htm)
   - **截稿日期：** 2023年06月20日
   - **会议级别：** CCF-C会议（计算机图形学与多媒体）
 - <del>**International Conference on Neural Information Processing (ICONIP2023)**</dev>
-  - **投稿链接：** http://iconip2023.org/
+  - **投稿链接：** [http://iconip2023.org/](http://iconip2023.org/)
   - **截稿日期：** 2023年06月10日
   - **征稿范围：** 机器学习、深度学习
   - **会议级别：** CCF-C会议（人工智能）
 - <del>**ACM SIGSPATIAL-2023**</del>
-  - **投稿链接：** http://sigspatial2023.sigspatial.org/
+  - **投稿链接：** [http://sigspatial2023.sigspatial.org/](http://sigspatial2023.sigspatial.org/)
   - **截稿日期：** 2023年06月09日
   - **会议级别：** CCF-C会议（交叉/综合/新兴）
   - **征稿范围：** 
@@ -70,7 +70,7 @@
 
 信息来源：
 
-- **实验室网站记录的CallForPapers：** https://docs.qq.com/sheet/DT3NnaE5vUnZ5Rkx6?tab=BB08J2
-- **CCF DDL：** https://ccfddl.top/
-- **Call4Papers：** http://123.57.137.208/C4PREST/ccf/ccf-3.jsp
-- **IEEE CFP：** https://www.computer.org/publications/author-resources/calls-for-papers
+- **实验室网站记录的CallForPapers：** [https://docs.qq.com/sheet/DT3NnaE5vUnZ5Rkx6?tab=BB08J2](https://docs.qq.com/sheet/DT3NnaE5vUnZ5Rkx6?tab=BB08J2)
+- **CCF DDL：** [https://ccfddl.top/](https://ccfddl.top/)
+- **Call4Papers：** [http://123.57.137.208/C4PREST/ccf/ccf-3.jsp](http://123.57.137.208/C4PREST/ccf/ccf-3.jsp)
+- **IEEE CFP：** [https://www.computer.org/publications/author-resources/calls-for-papers](https://www.computer.org/publications/author-resources/calls-for-papers)
