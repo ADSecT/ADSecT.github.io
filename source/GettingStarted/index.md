@@ -38,6 +38,8 @@
 
 - [Sourcetree安装教程及使用](https://zhuanlan.zhihu.com/p/629169117)
 
+- https://huggingface.co/
+
 ## 4.经典论文
 
 ### Survey
