@@ -20,6 +20,9 @@
 - **two-stage代表算法：** R-CNN、SPPNet、Fast R-CNN、Faster R-CNN、Mask R-CNN、Cascade R-CNN、Sparse R-CNN等。
 - **理解：** two-stage算法会先①生成一个候选区域（region proposal），然后②利用CNN对每个候选区域进行分类；而one-stage算法则一步到位，直接输出每个候选区域及对应的分类结果。
 
+- Anchor-Based（基于锚点的方法）：Faster R-CNN、YOLO系列、SSD、Cascade R-CNN、RetinaNet
+- Anchor-Free（无锚点方法）：CenterNet、FCOS、CornerNet
+
 ## 1.3.目标检测算法模型组成
 
 目标检测算法训练阶段的模型主要由以下几个部分组成，分别是：Backbone、Neck、Head、Enhance、BBox Assigner、BBox Sampler、BBox Encoder、 Loss组成。
