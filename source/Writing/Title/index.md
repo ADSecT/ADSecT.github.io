@@ -14,9 +14,9 @@
 
 ## 形式二：A: B
 
-**释义：** 通常，此类论文题目会为自己的工作起一个地道的英文名称或缩写，方便后人记忆。其中，A是缩写，B是全称。
+**释义：** 在 `A: B `中，通常是作者为自己的工作起一个地道的英文名称或缩写，方便后人记忆。其中，A是缩写，B是全称。
 
-**举例：**2023年IJCAI会议的论文：《SF-PATE: Scalable, Fair, and Private Aggregation of Teacher Ensembles》，其中：A指的是SF-PATE，B指的是Scalable, Fair, and Private Aggregation of Teacher Ensembles，A是B的缩写形式（取单词首字母S、F、P、A、T、E组成的）。
+**举例：** 2023年IJCAI会议的论文：《SF-PATE: Scalable, Fair, and Private Aggregation of Teacher Ensembles》，其中：A指的是SF-PATE，B指的是Scalable, Fair, and Private Aggregation of Teacher Ensembles，A是B的缩写形式（取单词首字母S、F、P、A、T、E组成的）。
 
 **参考列表：** 
 
@@ -25,7 +25,7 @@
 
 ## 形式三：A: B for C
 
-**释义：** 是A: B 和 B for C的结合形式，构成了A: B for C，其中B是本文的工作，C对应工作的任务或者目标，A是对B或者对B for C的缩写。
+**释义：** 是 `A: B` 和 `B for C` 的结合形式，构成了`A: B for C`，其中B是本文的工作，C对应工作的任务或者目标，A是对B或者对B for C的缩写。
 
 **参考列表：**
 
@@ -35,7 +35,7 @@
 
 ## 形式四：A: B for C in D
 
-**释义：** A: B for C in D是在A: B for C的基础上进行了扩充，D是指场景。
+**释义：** `A: B for C in D` 是在 `A: B for C` 的基础上进行了扩充，D是指场景。
 
 **参考列表：**
 
