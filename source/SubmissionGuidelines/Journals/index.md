@@ -83,33 +83,36 @@
 
 **要求：** 权威类成果1项+三类成果1项。`含义：1篇下面所列的期刊+1篇二类创新成果，即可满足基本毕业条件。`
 
-1. **[COSE]** Computers & Security
+1. Tsinghua Science and Technology
+   - **中文名称：** 清华学报英文版
+   - **期刊等级：** 中科院1区（<font color="red">**2023升区：2区->1区**</font>）
+2. **[COSE]** Computers & Security
    - **中文名称：** 计算机与安全
-   - **期刊等级：** 中科院2区（<font color="red">**2023升区3区->2区**</font>）、CCF-B（网络与信息安全）
-2. **[IoTJ/IOT]** IEEE Internet of Things Journal
+   - **期刊等级：** 中科院2区（<font color="red">**2023升区：3区->2区**</font>）、CCF-B（网络与信息安全）
+3. **[IoTJ/IOT]** IEEE Internet of Things Journal
    - **中文名称：** IEEE物联网期刊
    - **期刊等级：** 中科院1区、CCF-C（计算机网络）
-3. **[TETCI]** IEEE Transactions on Emerging Topics in Computational Intelligence
+4. **[TETCI]** IEEE Transactions on Emerging Topics in Computational Intelligence
    - **中文名称：** IEEE计算智能新兴课题汇刊
    - **期刊等级：** 中科院3区（<font color="green">**2023降区：2区->3区**</font>）
-4. **[FGCS]** Future Generation Computer Systems
+5. **[FGCS]** Future Generation Computer Systems
    - **中文名称：** 未来计算机系统
    - **期刊等级：** 中科院2区、CCF-C（计算机体系结构）
-5. **[JSA]** Journal of Systems Architecture
+6. **[JSA]** Journal of Systems Architecture
    - **中文名称：** 系统架构期刊
    - **期刊等级：** 中科院2区、CCF-B（体系结构）
-6. **[ESE]** Empirical Software Engineering
+7. **[ESE]** Empirical Software Engineering
    - **中文名称：** 经验软件工程
    - **期刊等级：** 中科院2区、CCF-B（软件工程）
-7. **[JIS]** International Journal of Intelligent Systems
+8. **[JIS]** International Journal of Intelligent Systems
    - **中文名称：** 国际智能系统期刊
    - **期刊等级：** 中科院2区、CCF-C（人工智能）
-8. [**IJCV**] International Journal of Computer Vision
+9. [**IJCV**] International Journal of Computer Vision
    - **中文名称：** 国际计算机视觉杂志
    - **期刊等级：** 中科院2区、CCF-A（人工智能）
-9. **[JISA]** Journal of Information Security and Applications
+10. **[JISA]** Journal of Information Security and Applications
    - **中文名称：** 信息安全与应用期刊
-   - **期刊等级：** 中科院2区（<font color="red">**2023升区3区->2区**</font>）
+   - **期刊等级：** 中科院2区（<font color="red">**2023升区：3区->2区**</font>）
 
 ## Ⅰ类期刊
 
