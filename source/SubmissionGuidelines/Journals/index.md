@@ -72,6 +72,10 @@
     - **中文名称：** IEEE云计算汇刊
     - **期刊等级：** 中科院2区、CCF-C（并行与分布计算）
     - **纳入依据：** 2区及以上Trans
+18. [**TCE**] IEEE Transactions on Consumer Electronics
+    - **中文名称：** IEEE消费电子汇刊
+    - **期刊等级：** 中科院2区
+    - **纳入依据：** 2区及以上Trans
 
 ## 权威类期刊
 
