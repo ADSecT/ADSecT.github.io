@@ -41,9 +41,9 @@
    - **期刊等级：** 中科院2区、CCF-A（软件工程）
    - **纳入依据：** 2区及以上Trans
 10. **[TNNLS]** IEEE Transactions on Neural Networks and Learning Systems
-   - **中文名称：** IEEE神经网络与学习系统汇刊
-   - **期刊等级：** 中科院1区、CCF-B（人工智能）
-   - **纳入依据：** 2区及以上Trans
+    - **中文名称：** IEEE神经网络与学习系统汇刊
+    - **期刊等级：** 中科院1区、CCF-B（人工智能）
+    - **纳入依据：** 2区及以上Trans
 11. **[TEC]** IEEE Transactions on Evolutionary Computation
     - **中文名称：** IEEE进化计算汇刊
     - **期刊等级：** 中科院1区、CCF-B（人工智能）
