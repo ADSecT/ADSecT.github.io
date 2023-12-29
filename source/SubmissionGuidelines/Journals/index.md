@@ -10,39 +10,27 @@
    - **纳入依据：** 网安顶级期刊、2区及以上Trans
 2. **[TDSC]** IEEE Transactions on Dependable and Secure Computing
    - **中文名称：** IEEE可靠与安全计算汇刊
-
    - **期刊等级：** 中科院2区、CCF-A（网络与信息安全）
-
    - **纳入依据：** 网安顶级期刊、2区及以上Trans
 3. **[TITS]** IEEE Transactions on Intelligent Transportation Systems
    - **中文名称：** IEEE智能交通系统汇刊
-
    - **期刊等级：** 中科院1区、CCF-B（交叉/新兴/综合）
-
    - **纳入依据：** 2区及以上Trans
 4. [**TIV**] IEEE Transactions on Intelligent Vehicles
    - **中文名称：** IEEE智能车辆汇刊
-
    - **期刊等级：** 中科院1区
-
    - **纳入依据：** 2区及以上Trans
 5. [**TVT**] IEEE Transactions on Vehicular Technology
    - **中文名称：** IEEE车辆技术汇刊
-
    - **期刊等级：** 中科院2区
-
    - **纳入依据：** 2区及以上Trans
 6. **[TR]** IEEE Transactions on Robotics
    - **中文名称：** IEEE机器人学汇刊
-
    - **期刊等级：** 中科院1区、CCF-B（交叉/新兴/综合）
-
    - **纳入依据：** 2区及以上Trans
 7. **[TRE]** IEEE Transactions on Reliability
    - **中文名称：** IEEE安全可靠性汇刊
-
    - **期刊等级：** 中科院2区、CCF-C（交叉/新兴/综合）
-
    - **纳入依据：** 2区及以上Trans
 8. **[TSE]** IEEE Transactions on Software Engineering
    - **中文名称：** IEEE软件工程汇刊
