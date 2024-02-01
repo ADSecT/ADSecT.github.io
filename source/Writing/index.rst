@@ -18,3 +18,4 @@
    Experiments/index
    Conclusion/index
    Acknowledgment/index
+   Color/index
