@@ -11,4 +11,3 @@
 
    目标检测/index
    AI模型安全与可靠性/index
-   图像数据增强/index
