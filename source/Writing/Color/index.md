@@ -1,5 +1,5 @@
 # 实验图表配色
 
-![](./assets/color3.jpg)
+| ![](./assets/color1.jpg) | ![](./assets/color2.jpg) | ![](./assets/color4.jpg) | ![](./assets/color5.jpg) |
+| ------------------------ | ------------------------ | ------------------------ | ------------------------ |
 
-<p><img  src="./assets/color1.jpg" width="400px"> <img src="./assets/color2.jpg" width="400px"></p>
