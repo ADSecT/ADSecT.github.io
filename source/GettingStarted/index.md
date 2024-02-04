@@ -4,11 +4,15 @@
 
 
 
-如何做研究：[科研入门，在导师完全散养不管的状态下，怎么提升自己的科研能力？](https://www.zhihu.com/question/385466539/answer/2268892163)
-
-如何做研究：[你在搞科研都有什么好的习惯？](https://mp.weixin.qq.com/s/MVnr8sV0i2qXjSGT2xmJ2w)
-
-如何写论文：[博士生发表论文的最佳速度](https://blog.sina.com.cn/s/blog_4b2b16c90102zppf.html) 
-
-如何写论文：[如何地道地用英文写作？](https://zhuanlan.zhihu.com/p/76560542)
-
+- 科研感悟：**时间是悄无声息的，它在默默度量着你的努力。**
+- 科研感悟：**要锻炼自己的抗压能力和多任务并行能力，不要有玻璃心。**
+- 科研感悟：**"万事开头难"，畏难时要说服自己迈出第一步；"行百里者半九十"，做事情要有始有终。**
+- 为什么要写论文：写论文的原因是，我们需要将现有的研究通过文字描述的方式告诉我们的同行，我们目前在研究什么，取得了什么样的进展。
+- 什么样的论文需要读？：近2-3年的文献；经典的文献；奠基性的文献。
+- 如何做研究：[科研入门，在导师完全散养不管的状态下，怎么提升自己的科研能力？](https://www.zhihu.com/question/385466539/answer/2268892163)
+- 如何做研究：[你在搞科研都有什么好的习惯？](https://mp.weixin.qq.com/s/MVnr8sV0i2qXjSGT2xmJ2w)
+- 如何写论文：[博士生发表论文的最佳速度](https://blog.sina.com.cn/s/blog_4b2b16c90102zppf.html) 
+- 如何写论文：[如何地道地用英文写作？](https://zhuanlan.zhihu.com/p/76560542)
+- 如何写论文：[发顶会顶刊论文，你应该这样写作（数学公式检查篇）](https://baijiahao.baidu.com/s?id=1739383075056032366&wfr=spider&for=pc)
+- 如何写论文：[顶会论文写作建议](https://zhuanlan.zhihu.com/p/633108071)
+- 如何看待写论文：["破五唯"改革已经三年了，到底是"改维"还是"不维"？](https://mp.weixin.qq.com/s?__biz=MzI1MjAzNTI2MQ==&mid=2649740287&idx=1&sn=aa35d51799886ea188d5af617c11841d&chksm=f1f29a2dc685133b69fb00b89cb7b481ce3f32764a11767604e997fd2082aaaa6f08174605b3&scene=27)
