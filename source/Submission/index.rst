@@ -10,5 +10,4 @@
    :maxdepth: 1
 
    Guidance/index
-   CallForPapers/index
-   CCFDDL/index
+   Deadlines/index
