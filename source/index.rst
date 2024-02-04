@@ -17,7 +17,6 @@ ADSecTeam Docs
 
    Submission/index
    GettingStarted/index
-   ResearchBasis/index
    Writing/index
 
 .. Indices and tables
