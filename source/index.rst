@@ -15,12 +15,10 @@ ADSecTeam Docs
    :maxdepth: 1
    :caption: 目录
 
+   Submission/index
    GettingStarted/index
-   Focus/index
-   SubmissionGuidelines/index
    ResearchBasis/index
    Writing/index
-   Datasets/index
 
 .. Indices and tables
 .. ==================
