@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ADSecTeam Docs
+AcademicHub Docs
 ===================================
 本仓库是基于 Sphinx + Read the Docs + Github + Aliyun 搭建的学术文档管理仓库，记录本人及团队在科研探索过程中遇到的问题及解决方案。
 
