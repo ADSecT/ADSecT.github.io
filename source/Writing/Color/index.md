@@ -1,4 +1,4 @@
-# 配色方案
+# 实验图表配色
 
 - 浮世绘&原神甘雨风格：![](./assets/color1.jpg)
 
@@ -6,6 +6,4 @@
 
   ![](./assets/color2.jpg)
 
-- SCI期刊配色：
-
-  ![](./assets/color3.jpg)
+  

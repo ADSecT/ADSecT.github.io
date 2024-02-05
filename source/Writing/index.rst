@@ -10,7 +10,6 @@
    :maxdepth: 1
    
    Title/index
-   Framework/index
    Abstract/index
    Introduction/index
    Related-work/index
@@ -18,4 +17,5 @@
    Experiments/index
    Conclusion/index
    Acknowledgment/index
+   Framework/index
    Color/index
