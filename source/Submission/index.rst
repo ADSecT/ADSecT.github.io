@@ -11,3 +11,4 @@
 
    Guidance/index
    Deadlines/index
+   Journals/index
