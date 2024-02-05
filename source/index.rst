@@ -14,8 +14,8 @@ ADSecTeam Docs
    :maxdepth: 1
    :caption: 目录
 
+   Tutorial/index
    Submission/index
-   GettingStarted/index
    Writing/index
 
 .. Indices and tables
