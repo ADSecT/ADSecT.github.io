@@ -12,6 +12,7 @@
 - 什么样的论文需要读？：近2-3年的文献；经典的文献；奠基性的文献。
 - 如何做研究：[科研入门，在导师完全散养不管的状态下，怎么提升自己的科研能力？](https://www.zhihu.com/question/385466539/answer/2268892163)
 - 如何做研究：[你在搞科研都有什么好的习惯？](https://mp.weixin.qq.com/s/MVnr8sV0i2qXjSGT2xmJ2w)
+- 如何读论文：[研究生新生要怎么看论文？](https://www.zhihu.com/question/304334959)
 - 如何写论文：[博士生发表论文的最佳速度](https://blog.sina.com.cn/s/blog_4b2b16c90102zppf.html) 
 - 如何写论文：[如何地道地用英文写作？](https://zhuanlan.zhihu.com/p/76560542)
 - 如何写论文：[发顶会顶刊论文，你应该这样写作（数学公式检查篇）](https://baijiahao.baidu.com/s?id=1739383075056032366&wfr=spider&for=pc)
