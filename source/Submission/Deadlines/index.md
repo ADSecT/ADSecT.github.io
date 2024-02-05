@@ -53,5 +53,5 @@
 | WiSec                                                        | 网络与信息安全 | CCF-C/网安top |                       |
 | CSF                                                          |       —        |    网安top    |                       |
 | RAID                                                         |       —        |    网安top    |                       |
-
+| ICASSP                                                       |                |     CCF-B     |                       |
 
