@@ -14,9 +14,11 @@ AcademicHub Docs
    :maxdepth: 1
    :caption: 目录
 
+   Requirements/index
    Tutorial/index
    Submission/index
    Writing/index
+   Project/index
 
 .. Indices and tables
 .. ==================
