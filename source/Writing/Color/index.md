@@ -6,4 +6,6 @@
 
   ![](./assets/color2.jpg)
 
-  
+- 原神九条裟罗 & 原神闲云
+
+  ![](./assets/color3.jpg)
