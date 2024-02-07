@@ -1,6 +1,6 @@
 # 摘要
 
-**单词：** 摘要部分，使用固定单词"Abstract"。
+**单词：** 摘要使用固定单词 `Abstract`。
 
 **组成：** 一般来说，学术论文的摘要分为4个主要组成部分，分别是：
 
@@ -19,7 +19,7 @@
 
     A recent work [40] proposed to use the forgetting score to measure the importance of each poisoned sample and then filter out redundant data for effective backdoor training. However, this method is empirically designed without theoretical proofing. It is also very time-consuming as it needs to go through several training stages for data selection. To address such limitations, we propose a novel confidence-based scoring methodology, which can efficiently measure the contribution of each poisoning sample based on the distance posteriors. We further introduce a greedy search algorithm to find the most informative samples for backdoor injection more promptly. Experimental evaluations on both 2D image and 3D point cloud classification tasks show that our approach can achieve comparable performance or even surpass the forgetting score-based searching method while requiring only several extra epochs’ computation of a standard training process. Our code can be found at [https://github.com/WU-YU-TONG/computational_efficient_backdoor](https://github.com/WU-YU-TONG/computational_efficient_backdoor).
 
-  - **原文解析：**
+  - **解析：**
 
     - **背景：** <font color="red">Backdoor attacks</font> against deep neural network (DNN) models have been widely studied. 【第1-2句：常见套话，XX工作被广泛研究了，并存在不同领域】Various attack techniques have been proposed for different domains and paradigms, e.g., image, point cloud, natural language processing, transfer learning, etc. <font color="red">The most widely-used way</font> to embed a backdoor into a DNN model is to <font color="red">poison the training data</font>.【第3句：引出子领域：backdoor attack中的poison the training data分支】 They usually randomly select samples from the benign training set for poisoning, <font color="red">without considering</font> the distinct contribution of each sample to the backdoor effectiveness, making the attack less optimal.【第4句：介绍poison the training data工作的局限性】
     - **目的：** <font color="red">A recent work [40] proposed</font> to use the forgetting score to measure the importance of each poisoned sample and then filter out redundant data for effective backdoor training.【第5句：引出最新的工作是如何应对的】 <font color="red">However</font>, this method is empirically designed without theoretical proofing. It is also very time-consuming as it needs to go through several training stages for data selection.【第6-7句：点出最新工作仍然存在的问题（当然也是作者在本文要解决的问题）】
