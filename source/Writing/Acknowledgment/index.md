@@ -10,7 +10,7 @@
 
 **参考模板：**
 
-- This work is supported by the Fundamental Research Funds for the Central Universities under Grant Nos. 2023JBMC055, the National Natural Science Foundation of China under Grant Nos. 61972025 and the ‘Top the List and Assume Leadership’ project in Shijiazhuang, Hebei Province, China.【2023年10月最新的基金号，包含了TED中央引导地方、NWJ国自然、石家庄揭榜挂帅三个项目。】
+- This work is supported by the Fundamental Research Funds for the Central Universities under Grant Nos. 2023JBMC055, the National Natural Science Foundation of China under Grant Nos. 61972025 and the ‘Top the List and Assume Leadership’ project in Shijiazhuang, Hebei Province, China.【2023年10月最新的基金号，包含了TED中央高校基本科研项目、NWJ智能交通的国自然项目、石家庄揭榜挂帅三个项目。】
 
 
 **收藏了几个比较有意思的致谢：**
