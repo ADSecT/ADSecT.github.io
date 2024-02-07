@@ -8,7 +8,7 @@
 - 要注意基金号的位次，是不是第一标注（有的项目有要求，必须要第一标注）。
 - 可以将实际参与了工作但未列入合作作者的人，放到致谢部分。
 
-**参考模板：**
+**模板：**
 
 - This work is supported by the Fundamental Research Funds for the Central Universities under Grant Nos. 2023JBMC055, the National Natural Science Foundation of China under Grant Nos. 61972025 and the ‘Top the List and Assume Leadership’ project in Shijiazhuang, Hebei Province, China.【2023年10月最新的基金号，包含了TED中央高校基本科研项目、NWJ智能交通的国自然项目、石家庄揭榜挂帅三个项目。】
 
