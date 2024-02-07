@@ -11,7 +11,7 @@
 - **方法（Methods）：** 摘要中会简要介绍你所采用的研究方法或者技术。这包括研究的设计、实验方法、数据收集和分析方法等。
 - **结果与结论（Results and Conclusions）：** 最后一部分会提到研究的主要结果和得出的结论，这部分可能包括一些关键的发现或者研究的意义。
 
-**参考模板：**
+**模板：**
 
 - **Computation and Data Efficient Backdoor Attacks.** *ICCV, 2023.*
 
