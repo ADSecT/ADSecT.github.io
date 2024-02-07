@@ -1,4 +1,17 @@
 # 引言
+
+**单词：** 引言部分，使用固定单词'Introduction'。
+
+**组成：** 一般来说，学术论文的引言分为4个主要的段落，分别是：
+
+- **第一段：背景介绍（Background）：** 引言的开始部分通常会介绍研究领域的背景和重要性，说明该研究领域的现状和存在的问题。
+- **第二段：研究现状（Related Work）：** 介绍研究现状，重点介绍目前问题解决的程度或者尚未解决的问题，目的是引出自己的研究目标和方法。
+- **第三段：方法（Methods）：** 介绍你所采用的研究方法或者技术。
+- **第四段：结果与结论（Results and Conclusions）**： 介绍实验的内容、主要结果以及得出的结论，这部分可能包括一些关键的发现或者研究的意义。
+- **第五段：贡献总结（Contributions）：** 总结本文章的贡献，大约2-3个点。
+
+**参考模板：**
+
 - Researchers have proposed a variety of novel attacks against DNN models for computer vision [3, 21, 27, 33, 34, 54, 58], natural language processing [5, 10, 44, 60], reinforcement learning [25, 53, 65], etc. <u>However, there are no studies investigating the backdoor opportunity against the lane detection systems.</u>
   - **来源：** 《Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving》
   - **备注：** 研究人员已经对CV、RL、NLP等领域提出了后门攻击的方法，然而还没有调查对车道线检测系统的后门攻击相关的研究。【新方法用在老场景中】
