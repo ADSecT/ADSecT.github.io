@@ -31,9 +31,10 @@
 
 - **Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.** *ACM MM, 2023.*
   - Our contributions can be summarized as follows:
-
 - **TEDAug: A Text-driven Augmentation for Pedestrian Detection.**
   - Our main contributions are summarized as follows:
+- **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving.** *ACM MM, 2022.*
+  - To summarize, we make the following contributions:
 
 
 
