@@ -41,6 +41,8 @@
 
 - **Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.** *ACM MM, 2023.*
   - <font color="red">To our knowledge</font>, we are<font color="red"> the first to</font> use Moiré patterns as triggers for physical backdoor attacks. 【据我们所知（to our knowledge），我们是第一次（the first to）提出……的工作。】
+- **Untargeted Backdoor Attack Against Object Detection.** *ICASSP, 2023.*
+  - <font color="red">To the best of our knowledge</font>, this is the ﬁrst backdoor attack against this mission-critical task.【据我们所知（To the best of our knowledge），这是第一次（the first）……】
 
 
 
