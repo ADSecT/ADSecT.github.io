@@ -10,18 +10,14 @@
 - **第四段：结果与结论（Results and Conclusions）**： 介绍实验的内容、主要结果以及得出的结论，这部分可能包括一些关键的发现或者研究的意义。
 - **第五段：贡献总结（Contributions）：** 总结本文章的贡献，大约2-3个点。
 
-**模板：**
+## 研究现状
 
-- Researchers have proposed a variety of novel attacks against DNN models for computer vision [3, 21, 27, 33, 34, 54, 58], natural language processing [5, 10, 44, 60], reinforcement learning [25, 53, 65], etc. <u>However, there are no studies investigating the backdoor opportunity against the lane detection systems.</u>
-  - **来源：** 《Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving》
-  - **备注：** 研究人员已经对CV、RL、NLP等领域提出了后门攻击的方法，然而还没有调查对车道线检测系统的后门攻击相关的研究。【新方法用在老场景中】
-- Besides, <u>the physical triggers used to attack face classification models cannot be applied to lane detection</u> due to the semantic differences between these two scenarios.  The physical triggers need to be carefully redesigned.
-  - **来源：** 《Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving》
-  - **备注：** 此外，攻击人脸分类模型所使用的物理触发器，由于两种场景的语义差异，无法应用于车道检测。物理触发器需要仔细地重新设计。【介绍与已有方法的不同之处】
+**如何表明本文与之前工作的不同之处？**
 
-
-
-
+- **Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.** *ACM MM, 2023.*
+  - While current methods have primarily focused on backdoor attacks for traffic sign recognition [5, 6, 18], image classification [30, 31, 33, 48], and face recognition [3, 14, 41], <font color="red">there has been little exploration into</font> backdoor attacks against pedestrian detection [21, 22]. Therefore, in this paper, we aim to evaluate security and identify potential risks by exploring physical backdoor attacks on this safety-critical task.【目前的方法主要集中在交通标志识别、图像分类和人脸识别的后门攻击上，对行人检测的后门攻击的探索很少(little exploration into)。】
+- **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving.** *ACM MM, 2022.*
+  - Researchers have proposed a variety of novel attacks against DNN models for computer vision [3, 21, 27, 33, 34, 54, 58], natural language processing [5, 10, 44, 60], reinforcement learning [25, 53, 65], etc. <font color="red">However, there are no studies investigating</font> the backdoor opportunity against the lane detection systems.【研究人员提出了各种针对计算机视觉，自然语言处理，强化学习等DNN模型的新攻击。然而，还没有研究调查(there are mo studies investigating)针对车道检测系统的后门机会。】
 
 
 
