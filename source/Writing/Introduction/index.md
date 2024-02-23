@@ -41,14 +41,14 @@
 **如何展示这是一篇开山之作？**
 
 - **Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.** *ACM MM, 2023.*
-  - <font color="red">To our knowledge</font>, we are<font color="red"> the first to</font> use Moiré patterns as triggers for physical backdoor attacks. 【据我们所知（To our knowledge），我们是第一次（the first to）提出……的工作。】
+  - <font color="red">To our knowledge</font>, we are<font color="red"> the first to</font> use Moiré patterns as triggers for physical backdoor attacks. 【据我们所知（To our knowledge），我们是第一个（the first to）使用Moiré模式作为物理后门攻击触发器的。】
 - **Untargeted Backdoor Attack Against Object Detection.** *ICASSP, 2023.*
-  - <font color="red">To the best of our knowledge</font>, this is the ﬁrst backdoor attack against this mission-critical task.【据我们所知（To the best of our knowledge），这是第一次（the first）……】
+  - <font color="red">To the best of our knowledge</font>, this is the ﬁrst backdoor attack against this mission-critical task.【据我们所知（To the best of our knowledge），这是针对这项关键任务的第一次（the first）后门攻击。】
 
 
 
 **如何表明做了大量充足的实验？**
 
 - **Moiré Backdoor Attack (MBA): A Novel Trigger for Pedestrian Detectors in the Physical World.** *ACM MM, 2023.*
-  - <font color="red">Through comprehensive experimentation on</font> two pedestrian detectors and two <font color="red">benchmark datasets</font>, our proposed MBA demonstrates <font color="red">outstanding</font> attack effectiveness and stealthiness in both digital and physical space. 【通过在……上的综合实验（comprehensive experimentation），我们提出的方法展示了杰出的（outstanding）攻击有效性和隐匿性。】
+  - <font color="red">Through comprehensive experimentation on</font> two pedestrian detectors and two <font color="red">benchmark datasets</font>, our proposed MBA demonstrates <font color="red">outstanding</font> attack effectiveness and stealthiness in both digital and physical space. 【通过在两个行人检测器和两个基准数据集上的综合实验（comprehensive experimentation），所提出的MBA在数字和物理空间中都展示了出色的（outstanding）攻击有效性（effectiveness）和隐蔽性（stealthiness）。】
 
