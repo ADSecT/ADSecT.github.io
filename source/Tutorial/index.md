@@ -18,3 +18,4 @@
 - 如何写论文：[发顶会顶刊论文，你应该这样写作（数学公式检查篇）](https://baijiahao.baidu.com/s?id=1739383075056032366&wfr=spider&for=pc)
 - 如何写论文：[顶会论文写作建议](https://zhuanlan.zhihu.com/p/633108071)
 - 如何看待写论文：["破五唯"改革已经三年了，到底是"改维"还是"不维"？](https://mp.weixin.qq.com/s?__biz=MzI1MjAzNTI2MQ==&mid=2649740287&idx=1&sn=aa35d51799886ea188d5af617c11841d&chksm=f1f29a2dc685133b69fb00b89cb7b481ce3f32764a11767604e997fd2082aaaa6f08174605b3&scene=27)
+- 心路分享：[从MM被拒到CVPR接受，心路分享！](https://mp.weixin.qq.com/s/mJyH5b6FLwFHD032o2loGA)
