@@ -12,3 +12,4 @@
    Guidance/index
    Deadlines/index
    Journals/index
+   CCF-Journals/index
