@@ -19,4 +19,4 @@
    Conclusion/index
    Acknowledgment/index
    Framework/index
-   Color/index
+   Experiments-Table-and-Figure/index
