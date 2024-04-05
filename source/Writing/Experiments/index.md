@@ -77,7 +77,7 @@
 - **模型：** 除了常规的单词表达外，还常用 `Target Models` （目标模型）、 `Victim Models` （受害者模型）等词汇。
 - **实验设置/实验细节：** 除了常规的单词表达外，还常用 `Attack Settings` （攻击设置）。
 - **实验结果分析：** 常常需要包括 `Attack Effectiveness` （攻击有效性）和 `Attack Stealthiness` （攻击隐蔽性）。
-- **反防御方法（安全论文特有）：**常用  `Countermeasure / Defense Experiments / Resistance to Backdoor Defenses`  等词汇。
+- **反防御方法（安全论文特有）：** 常用  `Countermeasure / Defense Experiments / Resistance to Backdoor Defenses`  等词汇。
 
 **模板：**
 
