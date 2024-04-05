@@ -1,27 +1,26 @@
 # 实验
 
-**单词：** 实验部分使用单词 `Experiments`。
+**常用单词：** `Experiments / Experiment`
 
 **常见结构：** 
 
-- 
-- 结构：
-- ```
-  4 Experiments
-  4.1. Experimental Settings/Setup（实验环境）
-  	4.1.1. Datasets/Dataset and Model
-  	4.1.2. Evaluation Metrics/Metrics
-  	※4.1.3. Methods for Comparison（介绍对比的方法）
-  	4.1.3. Implementation（实验环境的一些设计，实验细节）
-  ※4.2. Comparison with Baseline Methods（和Baseline的对比，验证优越性）
-  4.3. Ablation Study/Studies（消融实验）
-  ※4.4. Cross Datasets Generalization（跨数据集泛化性的评估）
-  ```
+- **实验设置：** 介绍实验的基础设置，包括：数据集、模型、评价指标、实验细节等，常用单词：`Experimental Settings / Setup / Experimental Setup`，有时会直接省略实验设置，同时把实验设置下面的二级标题提到一级标题。
 
+  - 模型：`Model`
+  - 数据集：`Datasets`
+  - 评价指标：`Evaluation Metrics / Metrics`
+  - 对比方法： `Methods for Comparison`
+  - 实验细节：`Implementation / Implementation Details`
 
+- **消融实验：** Ablation Study / Ablation Studies
 
+- **跨数据集评估：** Cross Datasets Generalization
 
-**模板二：**
+- **方法对比：** Comparisons with State-of-the-arts / Comparison with Baseline Methods
+
+  
+
+**模板：**
 
 - **Two Heads Are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation.** *AAAI, 2023.*（AAAI 2023最佳论文）
 
