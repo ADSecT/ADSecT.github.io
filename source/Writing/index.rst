@@ -11,7 +11,7 @@
    
    Title/index
    Abstract/index
-   Content/index
+   Organization/index
    Introduction/index
    Related-work/index
    Methodology/index

@@ -1,4 +1,4 @@
-# 目录结构
+# 组织结构
 
 - **Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation.** *CCS, 2022.*
 
