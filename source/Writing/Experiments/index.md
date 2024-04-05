@@ -13,7 +13,7 @@
 - **消融实验：** `Ablation Study / Ablation Studies`
 - **跨数据集评估：** `Cross Datasets Generalization`
 - **方法对比：** `Comparisons with State-of-the-arts / Comparison with Baseline Methods`
-- **实验结果/分析：** `Main Results / Analysis`
+- **实验结果分析：** `Main Results / Analysis`
 
 **模板：**
 
