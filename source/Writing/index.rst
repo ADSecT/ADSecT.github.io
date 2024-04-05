@@ -11,12 +11,12 @@
    
    Title/index
    Abstract/index
-   Organization/index
    Introduction/index
-   Related-work/index
+   Related-Work/index
    Methodology/index
    Experiments/index
    Conclusion/index
    Acknowledgment/index
-   Framework/index
-   Experiments-Table-and-Figure/index
+   P1-Organization/index
+   P2-Framework-Figure/index
+   P3-Experiments-Table-and-Figure/index
