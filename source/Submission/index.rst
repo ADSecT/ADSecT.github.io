@@ -7,7 +7,7 @@
 ===================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
 
    Guidance/index
    Deadlines/index
