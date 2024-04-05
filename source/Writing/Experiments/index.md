@@ -1,8 +1,8 @@
 # 实验
 
-## 通用教程
+## 通用论文教程
 
-**常用单词：** `Experiments / Experiment / Experiment & Analysis`
+**常用单词：** `Experiments / Experiment / Experiment & Analysis / Evaluation`
 
 **常见结构：** 
 
@@ -70,7 +70,7 @@
   ```
 
 
-## 攻击类论文教程
+## 攻击类论文教程*
 
 攻击类的论文，除了可以使用上述的通用教程之外，还可以使用基于下列调整的内容：
 
