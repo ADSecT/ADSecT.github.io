@@ -1,4 +1,4 @@
-# 框架图
+# 附2-框架图
 
 - **Robust Reinforcement Learning via Progressive Task Sequence.** *IJCAI, 2023.*
 
