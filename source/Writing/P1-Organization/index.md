@@ -1,6 +1,6 @@
-# 组织结构
-## 通用组织结构
-
+# 附1-组织结构
+## 通用教程
+**模板：**
 - **Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation.** *CCS, 2022.*
 
   - Abstract
@@ -27,5 +27,3 @@
   - 8 Conclusion, Limitation, and Future Works
   - Acknowledgments
   - References
-
-## AI会议安全类模板
