@@ -6,7 +6,7 @@
 
 **常见结构：** 
 
-- **实验设置：** 介绍实验的基础设置，包括：数据集、模型、评价指标、对比方法、实验细节等，常用单词：`Experimental Settings / Setup / Experimental Setup`。注意：有的论文会直接省略实验设置，同时把实验设置下面的二级标题提到一级标题。
+- **实验设置：** `Experimental Settings / Setup / Experimental Setup`。实验设置部分包括数据集、模型、评价指标、对比方法、实验细节等。注意，有的论文会直接省略实验设置，同时把实验设置下面的二级标题提到一级标题。
   - **模型：** `Model / Backbone Models / Model Architecture` 或 `victim Models / victim 3D DNNs / Target Model` （攻击论文常用）
   - **数据集：** `Datasets`
   - **评价指标：** `Evaluation Metrics / Metrics`
