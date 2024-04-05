@@ -11,7 +11,7 @@
 - **方法（Methods）：** 摘要中会简要介绍你所采用的研究方法或者技术。这包括研究的设计、实验方法、数据收集和分析方法等。
 - **结果与结论（Results and Conclusions）：** 最后一部分会提到研究的主要结果和得出的结论，这部分可能包括一些关键的发现或者研究的意义。
 
-**模板：** 大背景+存在的问题+最近的工作（是怎么解决该问题的）+然而最近的工作还存在什么问题（或还没有解决的问题）+本文的方法+实验
+**模板一：** 大背景+存在的问题+最近的工作（是怎么解决该问题的）+然而最近的工作还存在什么问题（或还没有解决的问题）+本文的方法和实验
 
 - **Computation and Data Efficient Backdoor Attacks.** *ICCV, 2023.*
 
@@ -26,5 +26,13 @@
     - **方法：** <font color="red">To address such limitations</font>, we propose a novel confidence-based scoring methodology, which can efficiently measure the contribution of each poisoning sample based on the distance posteriors. We further introduce a greedy search algorithm to find the most informative samples for backdoor injection more promptly. 【第8-9句：简要概括本文的方法】
     - **结果：** <font color="red">Experimental evaluations on both 2D image and 3D point cloud classification tasks show that</font> our approach can achieve comparable performance or even surpass the forgetting score-based searching method while requiring only several extra epochs’ computation of a standard training process. 【第10句：总结实验结果】Our code can be found at [https://github.com/WU-YU-TONG/computational_efficient_backdoor](https://github.com/WU-YU-TONG/computational_efficient_backdoor).【第11句：可有可无，公开源码链接】
 
+**模板二：** 大背景+存在的问题+宏观介绍目前存在的问题（尽管已经有工作了，但还存在什么问题）+本文的方法和实验
 
+- **Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving.** *ACM MM, 2022*
+
+  - **原文：** Modern autonomous vehicles adopt state-of-the-art DNN models to interpret the sensor data and perceive the environment. However, DNN models are vulnerable to different types of adversarial attacks, which pose significant risks to the security and safety of the vehicles and passengers. One prominent threat is the backdoor attack, where the adversary can compromise the DNN model by poisoning the training samples. Although lots of effort has been devoted to the investigation of the backdoor attack to conventional computer vision tasks, its practicality and applicability to the autonomous driving scenario is rarely explored, especially in the physical world.
+
+    In this paper, we target the lane detection system, which is an indispensable module for many autonomous driving tasks, e.g., navigation, lane switching. We design and realize the first physical backdoor attacks to such system. Our attacks are comprehensively effective against different types of lane detection algorithms. Specifically, we introduce two attack methodologies (poison-annotation and clean-annotation) to generate poisoned samples. With those samples, the trained lane detection model will be infected with the backdoor, and can be activated by common objects (e.g., traffic cones) to make wrong detections, leading the vehicle to drive off the road or onto the opposite lane. Extensive evaluations on public datasets and physical autonomous vehicles demonstrate that our backdoor attacks are effective, stealthy and robust against various defense solutions. Our codes and experimental videos can be found in https://sites.google.com/view/lane-detection-attack/lda.
+
+  - **解析：** 
 
