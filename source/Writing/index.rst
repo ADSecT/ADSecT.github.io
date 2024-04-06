@@ -12,7 +12,7 @@
    Title/index
    Abstract/index
    Introduction/index
-   Related-Work/index
+   Related-work/index
    Threat-Model/index
    Methodology/index
    Experiments/index
