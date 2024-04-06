@@ -18,7 +18,6 @@ AcademicHub Docs
    Tutorial/index
    Submission/index
    Writing/index
-   .. Project/index
 
 .. Indices and tables
 .. ==================
